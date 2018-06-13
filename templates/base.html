@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+  </head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type=text/css href="/static/styles/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <div>
+        <title>Tharumec - {{title}}</title>
+    </div>
+
+    <body>
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div 
+            class="container-fluid" 
+            style="
+                border-top: 5px blue solid;
+                border-bottom: 5px blue solid;
+            ">
+                <div style="margin: 0 10%;">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="/">Space Project</a>
+                    </div>
+                    <ul class="nav navbar-nav">
+                      <li class="active"><a href="#">Dummy Link</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                      <li class="active"><a href="#">Dummy Link</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                      <li class="active"><a href="#">Dummy Link</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                      <li class="active"><a href="#">Dummy Link</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class="well" style="background-color: rgba(0, 0, 25, 0.8);">
+            <h1>{{title}}</h1>
+            <p>{{desc}}</p>
+            <hr>
+            {{form}}
+        </div>
+    </body>
+
+    <footer style="
+        position:absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        padding: 10px 10%;
+        border-top: 5px blue solid;
+        border-bottom: 5px blue solid;
+        background: #111;
+    ">
+    <div id="con" class="row">
+        <div class="col-sm-4">
+        </div>
+        <div class="col-sm-4">
+        </div>
+        <div class="col-sm-4">
+        </div>
+    </div>
+</footer>
+</html>

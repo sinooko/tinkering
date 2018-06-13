@@ -1,0 +1,21 @@
+body {
+  background: black;
+  background-image: url('/static/images/bg.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 75px 20%;
+  font-size: 20px;
+  color: #6bf;
+}
+
+@media (max-width: 767px) {
+  body {
+    padding: 150px 10%;
+    padding-bottom: 110px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
