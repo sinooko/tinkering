@@ -3,6 +3,8 @@
     (ToDo)  Tie planet mass and planet size together loosely
         (Is there an algorithm for estimating density based on gravity?)
         (Radius = 394.15 * mass ** 0.35651)
+    (ToDo)  Adjust planet's random mass to lean exponentially smaller
+        (Create mass_gen in solar_calc)
 """
 
 from flask import Flask, render_template, Markup, request

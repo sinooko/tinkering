@@ -1,3 +1,8 @@
+"""
+    The following link could be used to play with trends on a graph
+    https://www.desmos.com/calculator
+"""
+
 from math import pi, sqrt
 from loremipsum import get_sentence
 from random import randint, uniform
@@ -111,12 +116,43 @@ def radius_gen(mass):
         # 20% deviation
         deviation = radius * uniform(0, 0.2)
 
+    # Flip a coin to decide if it will be a positive or negative deviation
     if coin == 1:
         radius = radius + deviation
     else:
         radius = radius - deviation
 
     return int(radius)
+
+
+def mass_gen(range):
+    """
+        Takes in range from sun and returns mass
+
+        It's supposed to be rare that planets get bigger than jupiter.
+        Need to simulate the curve that makes planets lean to the small end.
+        I'll have to refer back to my graph to get an idea of what the trend is
+        in our solar system. Also need to simulate the fact that giants tend to
+        exist towards the outside of the system.
+
+        Planets don't reach gas giant size in our solar system until jupiter
+        which sits out at,
+        74*10^10
+
+        5% chance to be jupiter size or larger
+        20% chance to be between jupiter and mars
+        75% chance to be smaller than Earth
+    """
+    roll = randint(1, 10)
+
+    if range < 74 * 10 ** 10:
+        # 10% chance of large planet inside of sol's jupiter zone
+        if roll == 1:
+            pass
+        else:
+            pass
+    else:
+        # 10% 
 
 
 def log(entry, path=False):
