@@ -5,7 +5,7 @@
 
 from math import pi, sqrt
 from loremipsum import get_sentence
-from random import randint, uniform
+from random import randint, uniform, randrange
 
 grav_con = 6.673 * (10 ** -11)
 name_list = []
@@ -139,20 +139,45 @@ def mass_gen(range):
         which sits out at,
         74*10^10
 
-        5% chance to be jupiter size or larger
-        20% chance to be between jupiter and mars
-        75% chance to be smaller than Earth
+        Someday I need to learn how to build the exponential function that will
+        replicate this properly
     """
-    roll = randint(1, 10)
+    roll = randint(1, 100)
 
+    # If planet exists inside of where Jupiter orbits the sun
     if range < 74 * 10 ** 10:
-        # 10% chance of large planet inside of sol's jupiter zone
+        # less than 1% chance of planet larger than jupiter
         if roll == 1:
+            # Total possible range
+            mass = randrange((8 * (10 ** 22)), (2 * (10 ** 29)))
+        # 2% chance of a planet size between Jupiter and Earth
+        elif roll <= 3:
+            mass = randrange((6 * (10 ** 24)), (2 * (10 ** 27)))
+        # 30% chance of a planet size between Earth and Mars
+        elif roll <= 33:
+            mass = randrange((6 * (10 ** 23)), (6 * (10 ** 24)))
+        # 68% chance of a planet smaller than Mars
+        else:
+            mass = randrange((8 * (10 ** 22)), (6 * (10 ** 23)))
+    else:
+        # less than 1% chance of a planet being massive
+        if roll == 1:
+            # Total possible range
+            mass = randrange((8 * (10 ** 22)), (2 * (10 ** 29)))
+        # 4% chance of being jupiter size or 10% of jupiter
+        elif roll <= 5:
+            mass = randrange(18 * (10 ** 26), (2 * (10 ** 27)))
+        # 10% chance of being between 80% and 90% of jupiter
+        elif roll <= 15:
             pass
+        # 20% chance of the next one
+        elif roll <= 35:
+            pass
+        # The rest fall into the last teir
         else:
             pass
-    else:
-        # 10% 
+
+    return mass
 
 
 def log(entry, path=False):
