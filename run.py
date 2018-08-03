@@ -5,6 +5,8 @@
         (Radius = 394.15 * mass ** 0.35651)
     (ToDo)  Adjust planet's random mass to lean exponentially smaller
         (Create mass_gen in solar_calc)
+    (ToDo)  Fix the loop in the planet_pop function
+        (While True? What the hell was I thinking?)
 """
 
 from flask import Flask, render_template, Markup, request

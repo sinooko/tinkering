@@ -125,9 +125,9 @@ def radius_gen(mass):
     return int(radius)
 
 
-def mass_gen(range):
+def mass_gen(distance_from_sun):
     """
-        Takes in range from sun and returns mass
+        Takes in distance from sun and returns mass
 
         It's supposed to be rare that planets get bigger than jupiter.
         Need to simulate the curve that makes planets lean to the small end.
@@ -145,10 +145,10 @@ def mass_gen(range):
     roll = randint(1, 100)
 
     # If planet exists inside of where Jupiter orbits the sun
-    if range < 74 * 10 ** 10:
+    if distance_from_sun < 74 * 10 ** 10:
         # less than 1% chance of planet larger than jupiter
         if roll == 1:
-            # Total possible range
+            # Total possible distance from sun
             mass = randrange((8 * (10 ** 22)), (2 * (10 ** 29)))
         # 2% chance of a planet size between Jupiter and Earth
         elif roll <= 3:
@@ -166,16 +166,16 @@ def mass_gen(range):
             mass = randrange((8 * (10 ** 22)), (2 * (10 ** 29)))
         # 4% chance of being jupiter size or 10% of jupiter
         elif roll <= 5:
-            mass = randrange(18 * (10 ** 26), (2 * (10 ** 27)))
+            mass = randrange((18 * (10 ** 26)), (2 * (10 ** 27)))
         # 10% chance of being between 80% and 90% of jupiter
         elif roll <= 15:
-            pass
-        # 20% chance of the next one
+            mass = randrange((16 * (10 ** 26)), (18 * (10 ** 26)))
+        # 20% chance of being between 60% and 80% of jupiter
         elif roll <= 35:
-            pass
+            mass = randrange((12 * (10 ** 26)), (16 * (10 ** 26)))
         # The rest fall into the last teir
         else:
-            pass
+            mass = randrange((8 * (10 ** 22)), (12 * (10 ** 26)))
 
     return mass
 

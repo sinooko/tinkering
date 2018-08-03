@@ -1,7 +1,7 @@
 from planet import Planet
 from roman import toRoman
 from random import randrange, randint
-from solar_calc import namer, log, radius_gen
+from solar_calc import namer, log, radius_gen, mass_gen
 
 
 def planet_pop(mass, num=None, star_name=None):
@@ -17,7 +17,6 @@ def planet_pop(mass, num=None, star_name=None):
     """
     log("Populating the solar system with planets.")
     planets = []
-    distance_max = 10 ** 10
 
     for x in range(0, num):
         log("Creating planet " + str(x + 1))
@@ -26,10 +25,15 @@ def planet_pop(mass, num=None, star_name=None):
         else:
             name = namer()
         log("Planet's name is " + name)
-        planet_mass = randrange((8 * (10 ** 22)), (2 * (10 ** 29)))
+        # Need to create a realistic starting minimum
+        distance = randrange(2 * (10 ** 5), 10 ** 10)
+        # What the hell did I do to myself here?
+        # I have mass before distance, but I need mass to get distance
+        planet_mass = mass_gen(distance)
         log(name + "'s mass is " + str(planet_mass))
         planet_radius = radius_gen(planet_mass)
         log(name + "'s radius is " + str(planet_radius))
+        # Set distance minimum to be outside of sun's roche limit
         distance_min = int(
             1.26 * planet_radius * ((mass / planet_mass) ** (1 / 3))
         )
@@ -38,7 +42,6 @@ def planet_pop(mass, num=None, star_name=None):
         # Test for planetary roche limits
         while True:
             collision = False
-            distance = randrange(distance_min, distance_max)
             if len(planets) > 0:
                 for planet in planets:
                     # Find and assign large and small planet stats
@@ -56,7 +59,8 @@ def planet_pop(mass, num=None, star_name=None):
                         splanet_radius * \
                         ((lplanet_mass / splanet_mass) ** (1 / 3))
 
-                    if abs(distance - planet.orbit_distance) < roche_limit:
+                    if abs(distance - planet.orbit_distance) < roche_limit \
+                            or distance < distance_min:
                         log(
                             "Planetary collision detected, calculating new "
                             "distance."
