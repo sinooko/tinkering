@@ -1,0 +1,3356 @@
+2018-08-07 09:14:42: solar_calc.py loaded
+2018-08-07 09:14:42: planet.py loaded
+2018-08-07 09:14:42: star.py loaded
+2018-08-07 09:14:42: html_builder.py loaded
+2018-08-07 09:14:42: Starting Tharumec website.
+2018-08-07 09:14:43: solar_calc.py loaded
+2018-08-07 09:14:43: planet.py loaded
+2018-08-07 09:14:43: star.py loaded
+2018-08-07 09:14:43: html_builder.py loaded
+2018-08-07 09:14:43: Starting Tharumec website.
+2018-08-07 09:15:05: Displaying main test page.
+2018-08-07 09:15:08: Displaying main test page.
+2018-08-07 09:15:08: User entered 5 planets.
+2018-08-07 09:15:08: Generating solar system from user input.
+2018-08-07 09:15:08: A new solar system has been requested
+2018-08-07 09:15:08: Radius: 0
+2018-08-07 09:15:08: Generating new name.
+2018-08-07 09:15:08: Unique name found, 'Crasatad' adding to name list.
+2018-08-07 09:15:08: Star name randomly generated as: Crasatad
+
+2018-08-07 09:15:08: Star mass randomly generated as: 1335047341767149431404583830717
+
+2018-08-07 09:15:08: Populating the solar system with planets.
+2018-08-07 09:15:08: Creating planet 1
+2018-08-07 09:15:08: Generating new name.
+2018-08-07 09:15:08: Unique name found, 'Urnaada' adding to name list.
+2018-08-07 09:15:08: Planet's name is Urnaada
+2018-08-07 09:15:08: Urnaada's mass is 122586295416927959050246
+2018-08-07 09:15:08: Urnaada's radius is 2472
+2018-08-07 09:15:08: Minimum distance is 690404
+2018-08-07 09:15:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:08: Planet Urnaada Created
+2018-08-07 09:15:08: Creating planet 2
+2018-08-07 09:15:08: Generating new name.
+2018-08-07 09:15:08: Unique name found, 'Quiseuid' adding to name list.
+2018-08-07 09:15:08: Planet's name is Quiseuid
+2018-08-07 09:15:08: Quiseuid's mass is 534020159688402054758303
+2018-08-07 09:15:08: Quiseuid's radius is 3051
+2018-08-07 09:15:08: Minimum distance is 521745
+2018-08-07 09:15:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:08: Planet Quiseuid Created
+2018-08-07 09:15:08: Creating planet 3
+2018-08-07 09:15:08: Generating new name.
+2018-08-07 09:15:08: Unique name found, 'Pedeve' adding to name list.
+2018-08-07 09:15:08: Planet's name is Pedeve
+2018-08-07 09:15:08: Pedeve's mass is 537379357959067623125123
+2018-08-07 09:15:08: Pedeve's radius is 4208
+2018-08-07 09:15:08: Minimum distance is 718099
+2018-08-07 09:15:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:08: Planet Pedeve Created
+2018-08-07 09:15:08: Creating planet 4
+2018-08-07 09:15:08: Generating new name.
+2018-08-07 09:15:08: Unique name found, 'Eratina' adding to name list.
+2018-08-07 09:15:08: Planet's name is Eratina
+2018-08-07 09:15:08: Eratina's mass is 594769838068467005870398
+2018-08-07 09:15:08: Eratina's radius is 4487
+2018-08-07 09:15:08: Minimum distance is 740245
+2018-08-07 09:15:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:08: Planet Eratina Created
+2018-08-07 09:15:08: Creating planet 5
+2018-08-07 09:15:08: Generating new name.
+2018-08-07 09:15:08: Unique name found, 'Anteida' adding to name list.
+2018-08-07 09:15:08: Planet's name is Anteida
+2018-08-07 09:15:08: Anteida's mass is 168337286792505099058621
+2018-08-07 09:15:08: Anteida's radius is 2630
+2018-08-07 09:15:08: Minimum distance is 660843
+2018-08-07 09:15:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:08: Planet Anteida Created
+2018-08-07 09:15:08: 5 planets generated.
+2018-08-07 09:15:08: Returning list of planet names to user.
+2018-08-07 09:15:29: Displaying main test page.
+2018-08-07 09:15:31: Displaying main test page.
+2018-08-07 09:15:31: User entered 25 planets.
+2018-08-07 09:15:31: Generating solar system from user input.
+2018-08-07 09:15:31: A new solar system has been requested
+2018-08-07 09:15:31: Radius: 0
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Erosuta' adding to name list.
+2018-08-07 09:15:31: Star name randomly generated as: Erosuta
+
+2018-08-07 09:15:31: Star mass randomly generated as: 30392428709263209918383988817634
+
+2018-08-07 09:15:31: Populating the solar system with planets.
+2018-08-07 09:15:31: Creating planet 1
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Crasida' adding to name list.
+2018-08-07 09:15:31: Planet's name is Crasida
+2018-08-07 09:15:31: Crasida's mass is 97061509780097083052018
+2018-08-07 09:15:31: Crasida's radius is 2498
+2018-08-07 09:15:31: Minimum distance is 2137317
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Crasida Created
+2018-08-07 09:15:31: Creating planet 2
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Nuncuta' adding to name list.
+2018-08-07 09:15:31: Planet's name is Nuncuta
+2018-08-07 09:15:31: Nuncuta's mass is 132114225435000269490856
+2018-08-07 09:15:31: Nuncuta's radius is 1927
+2018-08-07 09:15:31: Minimum distance is 1487730
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Nuncuta Created
+2018-08-07 09:15:31: Creating planet 3
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Eliteua' adding to name list.
+2018-08-07 09:15:31: Planet's name is Eliteua
+2018-08-07 09:15:31: Eliteua's mass is 366082930971251321292550
+2018-08-07 09:15:31: Eliteua's radius is 3851
+2018-08-07 09:15:31: Minimum distance is 2116765
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Eliteua Created
+2018-08-07 09:15:31: Creating planet 4
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Pedeadac' adding to name list.
+2018-08-07 09:15:31: Planet's name is Pedeadac
+2018-08-07 09:15:31: Pedeadac's mass is 163771903124037503540086
+2018-08-07 09:15:31: Pedeadac's radius is 2117
+2018-08-07 09:15:31: Minimum distance is 1521481
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Pedeadac Created
+2018-08-07 09:15:31: Creating planet 5
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Nibhmia' adding to name list.
+2018-08-07 09:15:31: Planet's name is Nibhmia
+2018-08-07 09:15:31: Nibhmia's mass is 555359879113271866666570
+2018-08-07 09:15:31: Nibhmia's radius is 3167
+2018-08-07 09:15:31: Minimum distance is 1515010
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Nibhmia Created
+2018-08-07 09:15:31: Creating planet 6
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Urnaatac' adding to name list.
+2018-08-07 09:15:31: Planet's name is Urnaatac
+2018-08-07 09:15:31: Urnaatac's mass is 133742216122981133222304
+2018-08-07 09:15:31: Urnaatac's radius is 2500
+2018-08-07 09:15:31: Minimum distance is 1922248
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Urnaatac Created
+2018-08-07 09:15:31: Creating planet 7
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Diameta' adding to name list.
+2018-08-07 09:15:31: Planet's name is Diameta
+2018-08-07 09:15:31: Diameta's mass is 2902793812528726821432287
+2018-08-07 09:15:31: Diameta's radius is 6342
+2018-08-07 09:15:31: Minimum distance is 1748154
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Diameta Created
+2018-08-07 09:15:31: Creating planet 8
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Elitida' adding to name list.
+2018-08-07 09:15:31: Planet's name is Elitida
+2018-08-07 09:15:31: Elitida's mass is 481175330033459879517083
+2018-08-07 09:15:31: Elitida's radius is 4330
+2018-08-07 09:15:31: Minimum distance is 2172763
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Elitida Created
+2018-08-07 09:15:31: Creating planet 9
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Orcivea' adding to name list.
+2018-08-07 09:15:31: Planet's name is Orcivea
+2018-08-07 09:15:31: Orcivea's mass is 168480185998815428787740
+2018-08-07 09:15:31: Orcivea's radius is 3013
+2018-08-07 09:15:31: Minimum distance is 2145071
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Orcivea Created
+2018-08-07 09:15:31: Creating planet 10
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Nuncvea' adding to name list.
+2018-08-07 09:15:31: Planet's name is Nuncvea
+2018-08-07 09:15:31: Nuncvea's mass is 465314670586670312576818
+2018-08-07 09:15:31: Nuncvea's radius is 3215
+2018-08-07 09:15:31: Minimum distance is 1631389
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Nuncvea Created
+2018-08-07 09:15:31: Creating planet 11
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Anteeta' adding to name list.
+2018-08-07 09:15:31: Planet's name is Anteeta
+2018-08-07 09:15:31: Anteeta's mass is 2812065937241601378257551
+2018-08-07 09:15:31: Anteeta's radius is 7908
+2018-08-07 09:15:31: Minimum distance is 2203013
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Anteeta Created
+2018-08-07 09:15:31: Creating planet 12
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Reduntant name 'Urnaada'.
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Urnaadapedeina' adding to name list.
+2018-08-07 09:15:31: Planet's name is Urnaadapedeina
+2018-08-07 09:15:31: Urnaadapedeina's mass is 180690760756393052578183
+2018-08-07 09:15:31: Urnaadapedeina's radius is 2452
+2018-08-07 09:15:31: Minimum distance is 1705431
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Urnaadapedeina Created
+2018-08-07 09:15:31: Creating planet 13
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Duisina' adding to name list.
+2018-08-07 09:15:31: Planet's name is Duisina
+2018-08-07 09:15:31: Duisina's mass is 310144087382576196347197
+2018-08-07 09:15:31: Duisina's radius is 3493
+2018-08-07 09:15:31: Minimum distance is 2029098
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Duisina Created
+2018-08-07 09:15:31: Creating planet 14
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Egetina' adding to name list.
+2018-08-07 09:15:31: Planet's name is Egetina
+2018-08-07 09:15:31: Egetina's mass is 520379584861099663905789
+2018-08-07 09:15:31: Egetina's radius is 2392
+2018-08-07 09:15:31: Minimum distance is 1169356
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Egetina Created
+2018-08-07 09:15:31: Creating planet 15
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Erateta' adding to name list.
+2018-08-07 09:15:31: Planet's name is Erateta
+2018-08-07 09:15:31: Erateta's mass is 594576714795754284232046
+2018-08-07 09:15:31: Erateta's radius is 2533
+2018-08-07 09:15:31: Minimum distance is 1184472
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Erateta Created
+2018-08-07 09:15:31: Creating planet 16
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Anteaceu' adding to name list.
+2018-08-07 09:15:31: Planet's name is Anteaceu
+2018-08-07 09:15:31: Anteaceu's mass is 94698970167159121804167
+2018-08-07 09:15:31: Anteaceu's radius is 2235
+2018-08-07 09:15:31: Minimum distance is 1928064
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Anteaceu Created
+2018-08-07 09:15:31: Creating planet 17
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Pedeet' adding to name list.
+2018-08-07 09:15:31: Planet's name is Pedeet
+2018-08-07 09:15:31: Pedeet's mass is 353765657010670134289795
+2018-08-07 09:15:31: Pedeet's radius is 3161
+2018-08-07 09:15:31: Minimum distance is 1757431
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Pedeet Created
+2018-08-07 09:15:31: Creating planet 18
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Anteina' adding to name list.
+2018-08-07 09:15:31: Planet's name is Anteina
+2018-08-07 09:15:31: Anteina's mass is 222183086293871922308315
+2018-08-07 09:15:31: Anteina's radius is 2374
+2018-08-07 09:15:31: Minimum distance is 1541236
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Anteina Created
+2018-08-07 09:15:31: Creating planet 19
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Nibhidnunc' adding to name list.
+2018-08-07 09:15:31: Planet's name is Nibhidnunc
+2018-08-07 09:15:31: Nibhidnunc's mass is 300339328618797185385494
+2018-08-07 09:15:31: Nibhidnunc's radius is 2603
+2018-08-07 09:15:31: Minimum distance is 1528372
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Nibhidnunc Created
+2018-08-07 09:15:31: Creating planet 20
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Reduntant name 'Anteina'.
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Anteinacrasat' adding to name list.
+2018-08-07 09:15:31: Planet's name is Anteinacrasat
+2018-08-07 09:15:31: Anteinacrasat's mass is 423413773115810882187134
+2018-08-07 09:15:31: Anteinacrasat's radius is 2975
+2018-08-07 09:15:31: Minimum distance is 1557845
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Anteinacrasat Created
+2018-08-07 09:15:31: Creating planet 21
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Orciida' adding to name list.
+2018-08-07 09:15:31: Planet's name is Orciida
+2018-08-07 09:15:31: Orciida's mass is 455213921358802076463676
+2018-08-07 09:15:31: Orciida's radius is 4436
+2018-08-07 09:15:31: Minimum distance is 2267489
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Orciida Created
+2018-08-07 09:15:31: Creating planet 22
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Nislada' adding to name list.
+2018-08-07 09:15:31: Planet's name is Nislada
+2018-08-07 09:15:31: Nislada's mass is 455661316430995288277291
+2018-08-07 09:15:31: Nislada's radius is 3748
+2018-08-07 09:15:31: Minimum distance is 1915187
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Nislada Created
+2018-08-07 09:15:31: Creating planet 23
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Reduntant name 'Nuncuta'.
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Nuncutaduiseta' adding to name list.
+2018-08-07 09:15:31: Planet's name is Nuncutaduiseta
+2018-08-07 09:15:31: Nuncutaduiseta's mass is 4245424955678084188408728
+2018-08-07 09:15:31: Nuncutaduiseta's radius is 4694
+2018-08-07 09:15:31: Minimum distance is 1139886
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Nuncutaduiseta Created
+2018-08-07 09:15:31: Creating planet 24
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Ametinat' adding to name list.
+2018-08-07 09:15:31: Planet's name is Ametinat
+2018-08-07 09:15:31: Ametinat's mass is 139561837282852345344410
+2018-08-07 09:15:31: Ametinat's radius is 2024
+2018-08-07 09:15:31: Minimum distance is 1534312
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Ametinat Created
+2018-08-07 09:15:31: Creating planet 25
+2018-08-07 09:15:31: Generating new name.
+2018-08-07 09:15:31: Unique name found, 'Crasina' adding to name list.
+2018-08-07 09:15:31: Planet's name is Crasina
+2018-08-07 09:15:31: Crasina's mass is 1466171227971155405278806863
+2018-08-07 09:15:31: Crasina's radius is 70396
+2018-08-07 09:15:31: Minimum distance is 2436569
+2018-08-07 09:15:31: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:15:31: Planet Crasina Created
+2018-08-07 09:15:31: 25 planets generated.
+2018-08-07 09:15:31: Returning list of planet names to user.
+2018-08-07 09:16:49: Displaying main test page.
+2018-08-07 09:16:51: Displaying main test page.
+2018-08-07 09:16:51: User entered 25 planets.
+2018-08-07 09:16:51: Generating solar system from user input.
+2018-08-07 09:16:51: A new solar system has been requested
+2018-08-07 09:16:51: Radius: 0
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Nisiveac' adding to name list.
+2018-08-07 09:16:51: Star name randomly generated as: Nisiveac
+
+2018-08-07 09:16:51: Star mass randomly generated as: 67227956330505380094732226279847
+
+2018-08-07 09:16:51: Populating the solar system with planets.
+2018-08-07 09:16:51: Creating planet 1
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Nislin' adding to name list.
+2018-08-07 09:16:51: Planet's name is Nislin
+2018-08-07 09:16:51: Nislin's mass is 399074147341947502096394
+2018-08-07 09:16:51: Nislin's radius is 3702
+2018-08-07 09:16:51: Minimum distance is 2576157
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Nislin Created
+2018-08-07 09:16:51: Creating planet 2
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Urnaacin' adding to name list.
+2018-08-07 09:16:51: Planet's name is Urnaacin
+2018-08-07 09:16:51: Urnaacin's mass is 272921890271833195072806
+2018-08-07 09:16:51: Urnaacin's radius is 3251
+2018-08-07 09:16:51: Minimum distance is 2567781
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Urnaacin Created
+2018-08-07 09:16:51: Creating planet 3
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Reduntant name 'Urnaada'.
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Urnaadaelituterat' adding to name list.
+2018-08-07 09:16:51: Planet's name is Urnaadaelituterat
+2018-08-07 09:16:51: Urnaadaelituterat's mass is 594689793584077239244628
+2018-08-07 09:16:51: Urnaadaelituterat's radius is 3494
+2018-08-07 09:16:51: Minimum distance is 2128694
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Urnaadaelituterat Created
+2018-08-07 09:16:51: Creating planet 4
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Orcive' adding to name list.
+2018-08-07 09:16:51: Planet's name is Orcive
+2018-08-07 09:16:51: Orcive's mass is 449156699956248147509064
+2018-08-07 09:16:51: Orcive's radius is 3828
+2018-08-07 09:16:51: Minimum distance is 2560903
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Orcive Created
+2018-08-07 09:16:51: Creating planet 5
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Elitinenim' adding to name list.
+2018-08-07 09:16:51: Planet's name is Elitinenim
+2018-08-07 09:16:51: Elitinenim's mass is 265556921037007617164059
+2018-08-07 09:16:51: Elitinenim's radius is 2454
+2018-08-07 09:16:51: Minimum distance is 1956031
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Elitinenim Created
+2018-08-07 09:16:51: Creating planet 6
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Ametaca' adding to name list.
+2018-08-07 09:16:51: Planet's name is Ametaca
+2018-08-07 09:16:51: Ametaca's mass is 542661075210950957767768
+2018-08-07 09:16:51: Ametaca's radius is 4665
+2018-08-07 09:16:51: Minimum distance is 2930191
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Ametaca Created
+2018-08-07 09:16:51: Creating planet 7
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Arcueuve' adding to name list.
+2018-08-07 09:16:51: Planet's name is Arcueuve
+2018-08-07 09:16:51: Arcueuve's mass is 334067655115451920171110
+2018-08-07 09:16:51: Arcueuve's radius is 3683
+2018-08-07 09:16:51: Minimum distance is 2719427
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Arcueuve Created
+2018-08-07 09:16:51: Creating planet 8
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Eroseta' adding to name list.
+2018-08-07 09:16:51: Planet's name is Eroseta
+2018-08-07 09:16:51: Eroseta's mass is 1877270332665533119810829
+2018-08-07 09:16:51: Eroseta's radius is 5064
+2018-08-07 09:16:51: Minimum distance is 2103158
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Eroseta Created
+2018-08-07 09:16:51: Creating planet 9
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Urnaid' adding to name list.
+2018-08-07 09:16:51: Planet's name is Urnaid
+2018-08-07 09:16:51: Urnaid's mass is 259495883827488768295562
+2018-08-07 09:16:51: Urnaid's radius is 2769
+2018-08-07 09:16:51: Minimum distance is 2224163
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Urnaid Created
+2018-08-07 09:16:51: Creating planet 10
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Eratideu' adding to name list.
+2018-08-07 09:16:51: Planet's name is Eratideu
+2018-08-07 09:16:51: Eratideu's mass is 912814568174043759293315797
+2018-08-07 09:16:51: Eratideu's radius is 62824
+2018-08-07 09:16:51: Minimum distance is 3318067
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Eratideu Created
+2018-08-07 09:16:51: Creating planet 11
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Orcieua' adding to name list.
+2018-08-07 09:16:51: Planet's name is Orcieua
+2018-08-07 09:16:51: Orcieua's mass is 594427219338387867842848
+2018-08-07 09:16:51: Orcieua's radius is 4575
+2018-08-07 09:16:51: Minimum distance is 2787695
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Orcieua Created
+2018-08-07 09:16:51: Creating planet 12
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Nuncaca' adding to name list.
+2018-08-07 09:16:51: Planet's name is Nuncaca
+2018-08-07 09:16:51: Nuncaca's mass is 4841142186081171479455369
+2018-08-07 09:16:51: Nuncaca's radius is 8332
+2018-08-07 09:16:51: Minimum distance is 2523406
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Nuncaca Created
+2018-08-07 09:16:51: Creating planet 13
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Anteata' adding to name list.
+2018-08-07 09:16:51: Planet's name is Anteata
+2018-08-07 09:16:51: Anteata's mass is 3244799254664233063663320
+2018-08-07 09:16:51: Anteata's radius is 6502
+2018-08-07 09:16:51: Minimum distance is 2250115
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Anteata Created
+2018-08-07 09:16:51: Creating planet 14
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Erosat' adding to name list.
+2018-08-07 09:16:51: Planet's name is Erosat
+2018-08-07 09:16:51: Erosat's mass is 491584499383232603006953
+2018-08-07 09:16:51: Erosat's radius is 3524
+2018-08-07 09:16:51: Minimum distance is 2287654
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Erosat Created
+2018-08-07 09:16:51: Creating planet 15
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Craseta' adding to name list.
+2018-08-07 09:16:51: Planet's name is Craseta
+2018-08-07 09:16:51: Craseta's mass is 246820092357527496308139
+2018-08-07 09:16:51: Craseta's radius is 2628
+2018-08-07 09:16:51: Minimum distance is 2146441
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Craseta Created
+2018-08-07 09:16:51: Creating planet 16
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Eroseua' adding to name list.
+2018-08-07 09:16:51: Planet's name is Eroseua
+2018-08-07 09:16:51: Eroseua's mass is 503866513548362339011816
+2018-08-07 09:16:51: Eroseua's radius is 2516
+2018-08-07 09:16:51: Minimum distance is 1619916
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Eroseua Created
+2018-08-07 09:16:51: Creating planet 17
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Pedeada' adding to name list.
+2018-08-07 09:16:51: Planet's name is Pedeada
+2018-08-07 09:16:51: Pedeada's mass is 498455369732482182777669
+2018-08-07 09:16:51: Pedeada's radius is 3168
+2018-08-07 09:16:51: Minimum distance is 2047058
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Pedeada Created
+2018-08-07 09:16:51: Creating planet 18
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Enimvea' adding to name list.
+2018-08-07 09:16:51: Planet's name is Enimvea
+2018-08-07 09:16:51: Enimvea's mass is 373705144638205048049821
+2018-08-07 09:16:51: Enimvea's radius is 2777
+2018-08-07 09:16:51: Minimum distance is 1975240
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Enimvea Created
+2018-08-07 09:16:51: Creating planet 19
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Urnauta' adding to name list.
+2018-08-07 09:16:51: Planet's name is Urnauta
+2018-08-07 09:16:51: Urnauta's mass is 571183626999284877743920
+2018-08-07 09:16:51: Urnauta's radius is 3855
+2018-08-07 09:16:51: Minimum distance is 2380416
+2018-08-07 09:16:51: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:51: Planet Urnauta Created
+2018-08-07 09:16:51: Creating planet 20
+2018-08-07 09:16:51: Generating new name.
+2018-08-07 09:16:51: Unique name found, 'Elitutet' adding to name list.
+2018-08-07 09:16:51: Planet's name is Elitutet
+2018-08-07 09:16:52: Elitutet's mass is 2389907825489060447826630
+2018-08-07 09:16:52: Elitutet's radius is 6910
+2018-08-07 09:16:52: Minimum distance is 2647919
+2018-08-07 09:16:52: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:52: Planet Elitutet Created
+2018-08-07 09:16:52: Creating planet 21
+2018-08-07 09:16:52: Generating new name.
+2018-08-07 09:16:52: Unique name found, 'Orciaca' adding to name list.
+2018-08-07 09:16:52: Planet's name is Orciaca
+2018-08-07 09:16:52: Orciaca's mass is 4838252544932079651002383
+2018-08-07 09:16:52: Orciaca's radius is 6741
+2018-08-07 09:16:52: Minimum distance is 2041966
+2018-08-07 09:16:52: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:52: Planet Orciaca Created
+2018-08-07 09:16:52: Creating planet 22
+2018-08-07 09:16:52: Generating new name.
+2018-08-07 09:16:52: Unique name found, 'Urnavea' adding to name list.
+2018-08-07 09:16:52: Planet's name is Urnavea
+2018-08-07 09:16:52: Urnavea's mass is 574599162093687833153532
+2018-08-07 09:16:52: Urnavea's radius is 4694
+2018-08-07 09:16:52: Minimum distance is 2892734
+2018-08-07 09:16:52: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:52: Planet Urnavea Created
+2018-08-07 09:16:52: Creating planet 23
+2018-08-07 09:16:52: Generating new name.
+2018-08-07 09:16:52: Unique name found, 'Urnaeu' adding to name list.
+2018-08-07 09:16:52: Planet's name is Urnaeu
+2018-08-07 09:16:52: Urnaeu's mass is 98858467042374487572339
+2018-08-07 09:16:52: Urnaeu's radius is 2263
+2018-08-07 09:16:52: Minimum distance is 2507458
+2018-08-07 09:16:52: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:52: Planet Urnaeu Created
+2018-08-07 09:16:52: Creating planet 24
+2018-08-07 09:16:52: Generating new name.
+2018-08-07 09:16:52: Unique name found, 'Duiseua' adding to name list.
+2018-08-07 09:16:52: Planet's name is Duiseua
+2018-08-07 09:16:52: Duiseua's mass is 445935844594949409136302
+2018-08-07 09:16:52: Duiseua's radius is 3700
+2018-08-07 09:16:52: Minimum distance is 2481217
+2018-08-07 09:16:52: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:52: Planet Duiseua Created
+2018-08-07 09:16:52: Creating planet 25
+2018-08-07 09:16:52: Generating new name.
+2018-08-07 09:16:52: Unique name found, 'Elitvea' adding to name list.
+2018-08-07 09:16:52: Planet's name is Elitvea
+2018-08-07 09:16:52: Elitvea's mass is 443464258538560223702329
+2018-08-07 09:16:52: Elitvea's radius is 3028
+2018-08-07 09:16:52: Minimum distance is 2034339
+2018-08-07 09:16:52: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:16:52: Planet Elitvea Created
+2018-08-07 09:16:52: 25 planets generated.
+2018-08-07 09:16:52: Returning list of planet names to user.
+2018-08-07 09:17:14: Displaying main test page.
+2018-08-07 09:17:17: Displaying main test page.
+2018-08-07 09:17:17: User entered 25 planets.
+2018-08-07 09:17:17: Generating solar system from user input.
+2018-08-07 09:17:17: A new solar system has been requested
+2018-08-07 09:17:17: Radius: 0
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Reduntant name 'Erateta'.
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Eratetaurnauteu' adding to name list.
+2018-08-07 09:17:17: Star name randomly generated as: Eratetaurnauteu
+
+2018-08-07 09:17:17: Star mass randomly generated as: 135443446016061126679033445907527
+
+2018-08-07 09:17:17: Populating the solar system with planets.
+2018-08-07 09:17:17: Creating planet 1
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Arcuvea' adding to name list.
+2018-08-07 09:17:17: Planet's name is Arcuvea
+2018-08-07 09:17:17: Arcuvea's mass is 242256126639658778396303
+2018-08-07 09:17:17: Arcuvea's radius is 2557
+2018-08-07 09:17:17: Minimum distance is 2654171
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Arcuvea Created
+2018-08-07 09:17:17: Creating planet 2
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Nisietad' adding to name list.
+2018-08-07 09:17:17: Planet's name is Nisietad
+2018-08-07 09:17:17: Nisietad's mass is 2098020309685994882848640
+2018-08-07 09:17:17: Nisietad's radius is 5730
+2018-08-07 09:17:17: Minimum distance is 2896284
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Nisietad Created
+2018-08-07 09:17:17: Creating planet 3
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Anteveat' adding to name list.
+2018-08-07 09:17:17: Planet's name is Anteveat
+2018-08-07 09:17:17: Anteveat's mass is 817822794874299364479094943
+2018-08-07 09:17:17: Anteveat's radius is 50400
+2018-08-07 09:17:17: Minimum distance is 3487391
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Anteveat Created
+2018-08-07 09:17:17: Creating planet 4
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Ametid' adding to name list.
+2018-08-07 09:17:17: Planet's name is Ametid
+2018-08-07 09:17:17: Ametid's mass is 3466583113132956961136122
+2018-08-07 09:17:17: Ametid's radius is 6654
+2018-08-07 09:17:17: Minimum distance is 2844933
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Ametid Created
+2018-08-07 09:17:17: Creating planet 5
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Diamin' adding to name list.
+2018-08-07 09:17:17: Planet's name is Diamin
+2018-08-07 09:17:17: Diamin's mass is 442174389325492516600584
+2018-08-07 09:17:17: Diamin's radius is 3439
+2018-08-07 09:17:17: Minimum distance is 2920950
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Diamin Created
+2018-08-07 09:17:17: Creating planet 6
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Nuncmia' adding to name list.
+2018-08-07 09:17:17: Planet's name is Nuncmia
+2018-08-07 09:17:17: Nuncmia's mass is 564924141109528316904345
+2018-08-07 09:17:17: Nuncmia's radius is 3274
+2018-08-07 09:17:17: Minimum distance is 2562743
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Nuncmia Created
+2018-08-07 09:17:17: Creating planet 7
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Erosid' adding to name list.
+2018-08-07 09:17:17: Planet's name is Erosid
+2018-08-07 09:17:17: Erosid's mass is 497046724167677445029614
+2018-08-07 09:17:17: Erosid's radius is 3274
+2018-08-07 09:17:17: Minimum distance is 2674460
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Erosid Created
+2018-08-07 09:17:17: Creating planet 8
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Nisleua' adding to name list.
+2018-08-07 09:17:17: Planet's name is Nisleua
+2018-08-07 09:17:17: Nisleua's mass is 172942043979173389188646
+2018-08-07 09:17:17: Nisleua's radius is 3194
+2018-08-07 09:17:17: Minimum distance is 3709578
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Nisleua Created
+2018-08-07 09:17:17: Creating planet 9
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Arcuacquisque' adding to name list.
+2018-08-07 09:17:17: Planet's name is Arcuacquisque
+2018-08-07 09:17:17: Arcuacquisque's mass is 97880841332637918184549
+2018-08-07 09:17:17: Arcuacquisque's radius is 2288
+2018-08-07 09:17:17: Minimum distance is 3212526
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Arcuacquisque Created
+2018-08-07 09:17:17: Creating planet 10
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Pedeinodio' adding to name list.
+2018-08-07 09:17:17: Planet's name is Pedeinodio
+2018-08-07 09:17:17: Pedeinodio's mass is 1715455644799379869058758
+2018-08-07 09:17:17: Pedeinodio's radius is 5978
+2018-08-07 09:17:17: Minimum distance is 3231364
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Pedeinodio Created
+2018-08-07 09:17:17: Creating planet 11
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Erosaca' adding to name list.
+2018-08-07 09:17:17: Planet's name is Erosaca
+2018-08-07 09:17:17: Erosaca's mass is 379592058009059651307693
+2018-08-07 09:17:17: Erosaca's radius is 3127
+2018-08-07 09:17:17: Minimum distance is 2794551
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Erosaca Created
+2018-08-07 09:17:17: Creating planet 12
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Nuncaceros' adding to name list.
+2018-08-07 09:17:17: Planet's name is Nuncaceros
+2018-08-07 09:17:17: Nuncaceros's mass is 5997632727296648467346908
+2018-08-07 09:17:17: Nuncaceros's radius is 7940
+2018-08-07 09:17:17: Minimum distance is 2827811
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Nuncaceros Created
+2018-08-07 09:17:17: Creating planet 13
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Odiovea' adding to name list.
+2018-08-07 09:17:17: Planet's name is Odiovea
+2018-08-07 09:17:17: Odiovea's mass is 463963855647360665467519
+2018-08-07 09:17:17: Odiovea's radius is 4776
+2018-08-07 09:17:17: Minimum distance is 3992020
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Odiovea Created
+2018-08-07 09:17:17: Creating planet 14
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Nibhatin' adding to name list.
+2018-08-07 09:17:17: Planet's name is Nibhatin
+2018-08-07 09:17:17: Nibhatin's mass is 3305281150131126837589943
+2018-08-07 09:17:17: Nibhatin's radius is 5864
+2018-08-07 09:17:17: Minimum distance is 2547305
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Nibhatin Created
+2018-08-07 09:17:17: Creating planet 15
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Eratmia' adding to name list.
+2018-08-07 09:17:17: Planet's name is Eratmia
+2018-08-07 09:17:17: Eratmia's mass is 557936306079955169949721
+2018-08-07 09:17:17: Eratmia's radius is 3888
+2018-08-07 09:17:17: Minimum distance is 3056008
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Eratmia Created
+2018-08-07 09:17:17: Creating planet 16
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Arcumive' adding to name list.
+2018-08-07 09:17:17: Planet's name is Arcumive
+2018-08-07 09:17:17: Arcumive's mass is 461168160701664677937156
+2018-08-07 09:17:17: Arcumive's radius is 4461
+2018-08-07 09:17:17: Minimum distance is 3736247
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Arcumive Created
+2018-08-07 09:17:17: Creating planet 17
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Quisat' adding to name list.
+2018-08-07 09:17:17: Planet's name is Quisat
+2018-08-07 09:17:17: Quisat's mass is 551010425048310667667924
+2018-08-07 09:17:17: Quisat's radius is 3527
+2018-08-07 09:17:17: Minimum distance is 2783825
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Quisat Created
+2018-08-07 09:17:17: Creating planet 18
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Odioina' adding to name list.
+2018-08-07 09:17:17: Planet's name is Odioina
+2018-08-07 09:17:17: Odioina's mass is 407084027832765692273288
+2018-08-07 09:17:17: Odioina's radius is 3552
+2018-08-07 09:17:17: Minimum distance is 3101235
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Odioina Created
+2018-08-07 09:17:17: Creating planet 19
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Odioeta' adding to name list.
+2018-08-07 09:17:17: Planet's name is Odioeta
+2018-08-07 09:17:17: Odioeta's mass is 178428179084222994974139
+2018-08-07 09:17:17: Odioeta's radius is 2820
+2018-08-07 09:17:17: Minimum distance is 3241289
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Odioeta Created
+2018-08-07 09:17:17: Creating planet 20
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Arcuat' adding to name list.
+2018-08-07 09:17:17: Planet's name is Arcuat
+2018-08-07 09:17:17: Arcuat's mass is 286296749566756944527601
+2018-08-07 09:17:17: Arcuat's radius is 2573
+2018-08-07 09:17:17: Minimum distance is 2526140
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Arcuat Created
+2018-08-07 09:17:17: Creating planet 21
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Duisada' adding to name list.
+2018-08-07 09:17:17: Planet's name is Duisada
+2018-08-07 09:17:17: Duisada's mass is 145145421848778174199250
+2018-08-07 09:17:17: Duisada's radius is 2071
+2018-08-07 09:17:17: Minimum distance is 2549972
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Duisada Created
+2018-08-07 09:17:17: Creating planet 22
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Erosada' adding to name list.
+2018-08-07 09:17:17: Planet's name is Erosada
+2018-08-07 09:17:17: Erosada's mass is 206321275590876211000479
+2018-08-07 09:17:17: Erosada's radius is 2381
+2018-08-07 09:17:17: Minimum distance is 2607361
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Erosada Created
+2018-08-07 09:17:17: Creating planet 23
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Enimata' adding to name list.
+2018-08-07 09:17:17: Planet's name is Enimata
+2018-08-07 09:17:17: Enimata's mass is 508640492868554741739274
+2018-08-07 09:17:17: Enimata's radius is 3740
+2018-08-07 09:17:17: Minimum distance is 3031734
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Enimata Created
+2018-08-07 09:17:17: Creating planet 24
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Egetidmi' adding to name list.
+2018-08-07 09:17:17: Planet's name is Egetidmi
+2018-08-07 09:17:17: Egetidmi's mass is 173158778327404871942360
+2018-08-07 09:17:17: Egetidmi's radius is 2045
+2018-08-07 09:17:17: Minimum distance is 2374114
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Egetidmi Created
+2018-08-07 09:17:17: Creating planet 25
+2018-08-07 09:17:17: Generating new name.
+2018-08-07 09:17:17: Unique name found, 'Arcuideu' adding to name list.
+2018-08-07 09:17:17: Planet's name is Arcuideu
+2018-08-07 09:17:17: Arcuideu's mass is 437468364156394188694400
+2018-08-07 09:17:17: Arcuideu's radius is 2962
+2018-08-07 09:17:17: Minimum distance is 2524794
+2018-08-07 09:17:17: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:17: Planet Arcuideu Created
+2018-08-07 09:17:17: 25 planets generated.
+2018-08-07 09:17:17: Returning list of planet names to user.
+2018-08-07 09:17:56: Displaying main test page.
+2018-08-07 09:17:59: Displaying main test page.
+2018-08-07 09:17:59: User entered 25 planets.
+2018-08-07 09:17:59: Generating solar system from user input.
+2018-08-07 09:17:59: A new solar system has been requested
+2018-08-07 09:17:59: Radius: 0
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Arcueuconubia' adding to name list.
+2018-08-07 09:17:59: Star name randomly generated as: Arcueuconubia
+
+2018-08-07 09:17:59: Star mass randomly generated as: 176817983397949922722509873079704
+
+2018-08-07 09:17:59: Populating the solar system with planets.
+2018-08-07 09:17:59: Creating planet 1
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Nuncadeu' adding to name list.
+2018-08-07 09:17:59: Planet's name is Nuncadeu
+2018-08-07 09:17:59: Nuncadeu's mass is 5255225848053177036720970
+2018-08-07 09:17:59: Nuncadeu's radius is 9695
+2018-08-07 09:17:59: Minimum distance is 3943634
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Nuncadeu Created
+2018-08-07 09:17:59: Creating planet 2
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Duisata' adding to name list.
+2018-08-07 09:17:59: Planet's name is Duisata
+2018-08-07 09:17:59: Duisata's mass is 4314549674796338368065218
+2018-08-07 09:17:59: Duisata's radius is 8307
+2018-08-07 09:17:59: Minimum distance is 3608652
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Duisata Created
+2018-08-07 09:17:59: Creating planet 3
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Egetat' adding to name list.
+2018-08-07 09:17:59: Planet's name is Egetat
+2018-08-07 09:17:59: Egetat's mass is 494190397696591757945363
+2018-08-07 09:17:59: Egetat's radius is 4907
+2018-08-07 09:17:59: Minimum distance is 4389320
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Egetat Created
+2018-08-07 09:17:59: Creating planet 4
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Nibhvea' adding to name list.
+2018-08-07 09:17:59: Planet's name is Nibhvea
+2018-08-07 09:17:59: Nibhvea's mass is 475574744831344399899216
+2018-08-07 09:17:59: Nibhvea's radius is 3061
+2018-08-07 09:17:59: Minimum distance is 2773339
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Nibhvea Created
+2018-08-07 09:17:59: Creating planet 5
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Nuncaceu' adding to name list.
+2018-08-07 09:17:59: Planet's name is Nuncaceu
+2018-08-07 09:17:59: Nuncaceu's mass is 552795515068809177758455
+2018-08-07 09:17:59: Nuncaceu's radius is 4696
+2018-08-07 09:17:59: Minimum distance is 4046559
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Nuncaceu Created
+2018-08-07 09:17:59: Creating planet 6
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Ametin' adding to name list.
+2018-08-07 09:17:59: Planet's name is Ametin
+2018-08-07 09:17:59: Ametin's mass is 580042322370821460148987
+2018-08-07 09:17:59: Ametin's radius is 2966
+2018-08-07 09:17:59: Minimum distance is 2515150
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Ametin Created
+2018-08-07 09:17:59: Creating planet 7
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Arcuata' adding to name list.
+2018-08-07 09:17:59: Planet's name is Arcuata
+2018-08-07 09:17:59: Arcuata's mass is 289691365054183497035840
+2018-08-07 09:17:59: Arcuata's radius is 1859
+2018-08-07 09:17:59: Minimum distance is 1986919
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Arcuata Created
+2018-08-07 09:17:59: Creating planet 8
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Quisveeu' adding to name list.
+2018-08-07 09:17:59: Planet's name is Quisveeu
+2018-08-07 09:17:59: Quisveeu's mass is 474050128496611033669891
+2018-08-07 09:17:59: Quisveeu's radius is 3351
+2018-08-07 09:17:59: Minimum distance is 3039338
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Quisveeu Created
+2018-08-07 09:17:59: Creating planet 9
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Elitad' adding to name list.
+2018-08-07 09:17:59: Planet's name is Elitad
+2018-08-07 09:17:59: Elitad's mass is 583183335939086848602187
+2018-08-07 09:17:59: Elitad's radius is 2938
+2018-08-07 09:17:59: Minimum distance is 2486925
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Elitad Created
+2018-08-07 09:17:59: Creating planet 10
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Nunceua' adding to name list.
+2018-08-07 09:17:59: Planet's name is Nunceua
+2018-08-07 09:17:59: Nunceua's mass is 3635968887429281352638295
+2018-08-07 09:17:59: Nunceua's radius is 9531
+2018-08-07 09:17:59: Minimum distance is 4383400
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Nunceua Created
+2018-08-07 09:17:59: Creating planet 11
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Pedeut' adding to name list.
+2018-08-07 09:17:59: Planet's name is Pedeut
+2018-08-07 09:17:59: Pedeut's mass is 2987375991449836071818781
+2018-08-07 09:17:59: Pedeut's radius is 6967
+2018-08-07 09:17:59: Minimum distance is 3421069
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Pedeut Created
+2018-08-07 09:17:59: Creating planet 12
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Enimaca' adding to name list.
+2018-08-07 09:17:59: Planet's name is Enimaca
+2018-08-07 09:17:59: Enimaca's mass is 3288495146748106759032582
+2018-08-07 09:17:59: Enimaca's radius is 5635
+2018-08-07 09:17:59: Minimum distance is 2679831
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Enimaca Created
+2018-08-07 09:17:59: Creating planet 13
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Egetet' adding to name list.
+2018-08-07 09:17:59: Planet's name is Egetet
+2018-08-07 09:17:59: Egetet's mass is 363169518217889105045949
+2018-08-07 09:17:59: Egetet's radius is 3173
+2018-08-07 09:17:59: Minimum distance is 3145185
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Egetet Created
+2018-08-07 09:17:59: Creating planet 14
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Anteeu' adding to name list.
+2018-08-07 09:17:59: Planet's name is Anteeu
+2018-08-07 09:17:59: Anteeu's mass is 219996699851035497911421
+2018-08-07 09:17:59: Anteeu's radius is 3145
+2018-08-07 09:17:59: Minimum distance is 3684353
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Anteeu Created
+2018-08-07 09:17:59: Creating planet 15
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Nislat' adding to name list.
+2018-08-07 09:17:59: Planet's name is Nislat
+2018-08-07 09:17:59: Nislat's mass is 250773104293836239418949
+2018-08-07 09:17:59: Nislat's radius is 3498
+2018-08-07 09:17:59: Minimum distance is 3922884
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Nislat Created
+2018-08-07 09:17:59: Creating planet 16
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Crasat' adding to name list.
+2018-08-07 09:17:59: Planet's name is Crasat
+2018-08-07 09:17:59: Crasat's mass is 138970506984060975988376
+2018-08-07 09:17:59: Crasat's radius is 1456
+2018-08-07 09:17:59: Minimum distance is 1987924
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Crasat Created
+2018-08-07 09:17:59: Creating planet 17
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Odioida' adding to name list.
+2018-08-07 09:17:59: Planet's name is Odioida
+2018-08-07 09:17:59: Odioida's mass is 365849251335803063744943
+2018-08-07 09:17:59: Odioida's radius is 2635
+2018-08-07 09:17:59: Minimum distance is 2605509
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Odioida Created
+2018-08-07 09:17:59: Creating planet 18
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Reduntant name 'Erosuta'.
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Erosutaametatet' adding to name list.
+2018-08-07 09:17:59: Planet's name is Erosutaametatet
+2018-08-07 09:17:59: Erosutaametatet's mass is 410262783783988533254363
+2018-08-07 09:17:59: Erosutaametatet's radius is 4456
+2018-08-07 09:17:59: Minimum distance is 4241021
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Erosutaametatet Created
+2018-08-07 09:17:59: Creating planet 19
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Reduntant name 'Ametin'.
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Ametinametuta' adding to name list.
+2018-08-07 09:17:59: Planet's name is Ametinametuta
+2018-08-07 09:17:59: Ametinametuta's mass is 5183172724982349538762107
+2018-08-07 09:17:59: Ametinametuta's radius is 9278
+2018-08-07 09:17:59: Minimum distance is 3791419
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Ametinametuta Created
+2018-08-07 09:17:59: Creating planet 20
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Elitid' adding to name list.
+2018-08-07 09:17:59: Planet's name is Elitid
+2018-08-07 09:17:59: Elitid's mass is 493490492488101524834601
+2018-08-07 09:17:59: Elitid's radius is 2847
+2018-08-07 09:17:59: Minimum distance is 2547850
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Elitid Created
+2018-08-07 09:17:59: Creating planet 21
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Anteinet' adding to name list.
+2018-08-07 09:17:59: Planet's name is Anteinet
+2018-08-07 09:17:59: Anteinet's mass is 3116096118122004634052787
+2018-08-07 09:17:59: Anteinet's radius is 9108
+2018-08-07 09:17:59: Minimum distance is 4409934
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Anteinet Created
+2018-08-07 09:17:59: Creating planet 22
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Arcuve' adding to name list.
+2018-08-07 09:17:59: Planet's name is Arcuve
+2018-08-07 09:17:59: Arcuve's mass is 5683782612935658021960311
+2018-08-07 09:17:59: Arcuve's radius is 8080
+2018-08-07 09:17:59: Minimum distance is 3201928
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Arcuve Created
+2018-08-07 09:17:59: Creating planet 23
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Duismia' adding to name list.
+2018-08-07 09:17:59: Planet's name is Duismia
+2018-08-07 09:17:59: Duismia's mass is 3371434159941296163288942
+2018-08-07 09:17:59: Duismia's radius is 5590
+2018-08-07 09:17:59: Minimum distance is 2636450
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Duismia Created
+2018-08-07 09:17:59: Creating planet 24
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Reduntant name 'Nislada'.
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Nisladaquiseua' adding to name list.
+2018-08-07 09:17:59: Planet's name is Nisladaquiseua
+2018-08-07 09:17:59: Nisladaquiseua's mass is 2816242188153950902154405
+2018-08-07 09:17:59: Nisladaquiseua's radius is 5469
+2018-08-07 09:17:59: Minimum distance is 2738822
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Nisladaquiseua Created
+2018-08-07 09:17:59: Creating planet 25
+2018-08-07 09:17:59: Generating new name.
+2018-08-07 09:17:59: Unique name found, 'Quammiid' adding to name list.
+2018-08-07 09:17:59: Planet's name is Quammiid
+2018-08-07 09:17:59: Quammiid's mass is 499485677140412795905603
+2018-08-07 09:17:59: Quammiid's radius is 2656
+2018-08-07 09:17:59: Minimum distance is 2367371
+2018-08-07 09:17:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:17:59: Planet Quammiid Created
+2018-08-07 09:17:59: 25 planets generated.
+2018-08-07 09:17:59: Returning list of planet names to user.
+2018-08-07 09:18:18: Displaying main test page.
+2018-08-07 09:18:20: Displaying main test page.
+2018-08-07 09:18:20: User entered 25 planets.
+2018-08-07 09:18:20: Generating solar system from user input.
+2018-08-07 09:18:20: A new solar system has been requested
+2018-08-07 09:18:20: Radius: 0
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Nislvea' adding to name list.
+2018-08-07 09:18:20: Star name randomly generated as: Nislvea
+
+2018-08-07 09:18:20: Star mass randomly generated as: 191659984229384724653581072492993
+
+2018-08-07 09:18:20: Populating the solar system with planets.
+2018-08-07 09:18:20: Creating planet 1
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Quisetac' adding to name list.
+2018-08-07 09:18:20: Planet's name is Quisetac
+2018-08-07 09:18:20: Quisetac's mass is 250522737722271142409176
+2018-08-07 09:18:20: Quisetac's radius is 3200
+2018-08-07 09:18:20: Minimum distance is 3687640
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Quisetac Created
+2018-08-07 09:18:20: Creating planet 2
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Erosida' adding to name list.
+2018-08-07 09:18:20: Planet's name is Erosida
+2018-08-07 09:18:20: Erosida's mass is 1231591804872979700229351
+2018-08-07 09:18:20: Erosida's radius is 4058
+2018-08-07 09:18:20: Minimum distance is 2750241
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Erosida Created
+2018-08-07 09:18:20: Creating planet 3
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Erateua' adding to name list.
+2018-08-07 09:18:20: Planet's name is Erateua
+2018-08-07 09:18:20: Erateua's mass is 2989825571671423650764629
+2018-08-07 09:18:20: Erateua's radius is 6040
+2018-08-07 09:18:20: Minimum distance is 3045809
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Erateua Created
+2018-08-07 09:18:20: Creating planet 4
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Nisivea' adding to name list.
+2018-08-07 09:18:20: Planet's name is Nisivea
+2018-08-07 09:18:20: Nisivea's mass is 415665071483330803059496
+2018-08-07 09:18:20: Nisivea's radius is 3195
+2018-08-07 09:18:20: Minimum distance is 3110073
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Nisivea Created
+2018-08-07 09:18:20: Creating planet 5
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Urnaida' adding to name list.
+2018-08-07 09:18:20: Planet's name is Urnaida
+2018-08-07 09:18:20: Urnaida's mass is 163043614090243472001465
+2018-08-07 09:18:20: Urnaida's radius is 1997
+2018-08-07 09:18:20: Minimum distance is 2655570
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Urnaida Created
+2018-08-07 09:18:20: Creating planet 6
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Quamaca' adding to name list.
+2018-08-07 09:18:20: Planet's name is Quamaca
+2018-08-07 09:18:20: Quamaca's mass is 513164511245399288819399
+2018-08-07 09:18:20: Quamaca's radius is 2423
+2018-08-07 09:18:20: Minimum distance is 2198613
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Quamaca Created
+2018-08-07 09:18:20: Creating planet 7
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Reduntant name 'Arcuvea'.
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Arcuveaenimin' adding to name list.
+2018-08-07 09:18:20: Planet's name is Arcuveaenimin
+2018-08-07 09:18:20: Arcuveaenimin's mass is 968919667625224920260545
+2018-08-07 09:18:20: Arcuveaenimin's radius is 5675
+2018-08-07 09:18:20: Minimum distance is 4166304
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Arcuveaenimin Created
+2018-08-07 09:18:20: Creating planet 8
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Orciatut' adding to name list.
+2018-08-07 09:18:20: Planet's name is Orciatut
+2018-08-07 09:18:20: Orciatut's mass is 65298541814469600652952343505
+2018-08-07 09:18:20: Orciatut's radius is 222226
+2018-08-07 09:18:20: Minimum distance is 4009049
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Orciatut Created
+2018-08-07 09:18:20: Creating planet 9
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Arcueumi' adding to name list.
+2018-08-07 09:18:20: Planet's name is Arcueumi
+2018-08-07 09:18:20: Arcueumi's mass is 339632577257208335644003
+2018-08-07 09:18:20: Arcueumi's radius is 3308
+2018-08-07 09:18:20: Minimum distance is 3444372
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Arcueumi Created
+2018-08-07 09:18:20: Creating planet 10
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Quisaca' adding to name list.
+2018-08-07 09:18:20: Planet's name is Quisaca
+2018-08-07 09:18:20: Quisaca's mass is 246744588127058769880786
+2018-08-07 09:18:20: Quisaca's radius is 2478
+2018-08-07 09:18:20: Minimum distance is 2870118
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Quisaca Created
+2018-08-07 09:18:20: Creating planet 11
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Odioac' adding to name list.
+2018-08-07 09:18:20: Planet's name is Odioac
+2018-08-07 09:18:20: Odioac's mass is 304823865463112677457879
+2018-08-07 09:18:20: Odioac's radius is 3671
+2018-08-07 09:18:20: Minimum distance is 3962619
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Odioac Created
+2018-08-07 09:18:20: Creating planet 12
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Reduntant name 'Nisivea'.
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Nisiveaenimvea' adding to name list.
+2018-08-07 09:18:20: Planet's name is Nisiveaenimvea
+2018-08-07 09:18:20: Nisiveaenimvea's mass is 368502089047648451118798
+2018-08-07 09:18:20: Nisiveaenimvea's radius is 3170
+2018-08-07 09:18:20: Minimum distance is 3212133
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Nisiveaenimvea Created
+2018-08-07 09:18:20: Creating planet 13
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Enimina' adding to name list.
+2018-08-07 09:18:20: Planet's name is Enimina
+2018-08-07 09:18:20: Enimina's mass is 2318711804970819210559980
+2018-08-07 09:18:20: Enimina's radius is 4032
+2018-08-07 09:18:20: Minimum distance is 2213023
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Enimina Created
+2018-08-07 09:18:20: Creating planet 14
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Arcuac' adding to name list.
+2018-08-07 09:18:20: Planet's name is Arcuac
+2018-08-07 09:18:20: Arcuac's mass is 4956264072119411256402143
+2018-08-07 09:18:20: Arcuac's radius is 8194
+2018-08-07 09:18:20: Minimum distance is 3491340
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Arcuac Created
+2018-08-07 09:18:20: Creating planet 15
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Quisata' adding to name list.
+2018-08-07 09:18:20: Planet's name is Quisata
+2018-08-07 09:18:20: Quisata's mass is 322645337366586338621956
+2018-08-07 09:18:20: Quisata's radius is 3086
+2018-08-07 09:18:20: Minimum distance is 3268650
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Quisata Created
+2018-08-07 09:18:20: Creating planet 16
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Nibhmieu' adding to name list.
+2018-08-07 09:18:20: Planet's name is Nibhmieu
+2018-08-07 09:18:20: Nibhmieu's mass is 368429260646042371513753
+2018-08-07 09:18:20: Nibhmieu's radius is 4208
+2018-08-07 09:18:20: Minimum distance is 4264211
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Nibhmieu Created
+2018-08-07 09:18:20: Creating planet 17
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Egetata' adding to name list.
+2018-08-07 09:18:20: Planet's name is Egetata
+2018-08-07 09:18:20: Egetata's mass is 248495510898979050288448
+2018-08-07 09:18:20: Egetata's radius is 2093
+2018-08-07 09:18:20: Minimum distance is 2418488
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Egetata Created
+2018-08-07 09:18:20: Creating planet 18
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Nibhuta' adding to name list.
+2018-08-07 09:18:20: Planet's name is Nibhuta
+2018-08-07 09:18:20: Nibhuta's mass is 102071192365362885238109
+2018-08-07 09:18:20: Nibhuta's radius is 1888
+2018-08-07 09:18:20: Minimum distance is 2934823
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Nibhuta Created
+2018-08-07 09:18:20: Creating planet 19
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Craseu' adding to name list.
+2018-08-07 09:18:20: Planet's name is Craseu
+2018-08-07 09:18:20: Craseu's mass is 527227490821573323489445
+2018-08-07 09:18:20: Craseu's radius is 4727
+2018-08-07 09:18:20: Minimum distance is 4250766
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Craseu Created
+2018-08-07 09:18:20: Creating planet 20
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Nibhat' adding to name list.
+2018-08-07 09:18:20: Planet's name is Nibhat
+2018-08-07 09:18:20: Nibhat's mass is 94922964592310305954190
+2018-08-07 09:18:20: Nibhat's radius is 2508
+2018-08-07 09:18:20: Minimum distance is 3994092
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Nibhat Created
+2018-08-07 09:18:20: Creating planet 21
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Reduntant name 'Orciaca'.
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Orciacaduiseua' adding to name list.
+2018-08-07 09:18:20: Planet's name is Orciacaduiseua
+2018-08-07 09:18:20: Orciacaduiseua's mass is 380825900192334444339288
+2018-08-07 09:18:20: Orciacaduiseua's radius is 2693
+2018-08-07 09:18:20: Minimum distance is 2699035
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Orciacaduiseua Created
+2018-08-07 09:18:20: Creating planet 22
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Erosutin' adding to name list.
+2018-08-07 09:18:20: Planet's name is Erosutin
+2018-08-07 09:18:20: Erosutin's mass is 4912795141605450722866158
+2018-08-07 09:18:20: Erosutin's radius is 8957
+2018-08-07 09:18:20: Minimum distance is 3827666
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Erosutin Created
+2018-08-07 09:18:20: Creating planet 23
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Quamida' adding to name list.
+2018-08-07 09:18:20: Planet's name is Quamida
+2018-08-07 09:18:20: Quamida's mass is 113738957500176108225898
+2018-08-07 09:18:20: Quamida's radius is 2551
+2018-08-07 09:18:20: Minimum distance is 3824914
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Quamida Created
+2018-08-07 09:18:20: Creating planet 24
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Quisad' adding to name list.
+2018-08-07 09:18:20: Planet's name is Quisad
+2018-08-07 09:18:20: Quisad's mass is 80162409807508076582976
+2018-08-07 09:18:20: Quisad's radius is 1307
+2018-08-07 09:18:20: Minimum distance is 2202079
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Quisad Created
+2018-08-07 09:18:20: Creating planet 25
+2018-08-07 09:18:20: Generating new name.
+2018-08-07 09:18:20: Unique name found, 'Ameteta' adding to name list.
+2018-08-07 09:18:20: Planet's name is Ameteta
+2018-08-07 09:18:20: Ameteta's mass is 4416553072031250431576772
+2018-08-07 09:18:20: Ameteta's radius is 8706
+2018-08-07 09:18:20: Minimum distance is 3854829
+2018-08-07 09:18:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:20: Planet Ameteta Created
+2018-08-07 09:18:20: 25 planets generated.
+2018-08-07 09:18:20: Returning list of planet names to user.
+2018-08-07 09:18:41: Displaying main test page.
+2018-08-07 09:18:43: Displaying main test page.
+2018-08-07 09:18:43: User entered 25 planets.
+2018-08-07 09:18:43: Generating solar system from user input.
+2018-08-07 09:18:43: A new solar system has been requested
+2018-08-07 09:18:43: Radius: 0
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Crasaca' adding to name list.
+2018-08-07 09:18:43: Star name randomly generated as: Crasaca
+
+2018-08-07 09:18:43: Star mass randomly generated as: 201521156461372060718945160456302
+
+2018-08-07 09:18:43: Populating the solar system with planets.
+2018-08-07 09:18:43: Creating planet 1
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Odiomilaoreet' adding to name list.
+2018-08-07 09:18:43: Planet's name is Odiomilaoreet
+2018-08-07 09:18:43: Odiomilaoreet's mass is 277195243263807913346454
+2018-08-07 09:18:43: Odiomilaoreet's radius is 2588
+2018-08-07 09:18:43: Minimum distance is 2932106
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Odiomilaoreet Created
+2018-08-07 09:18:43: Creating planet 2
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Erosvea' adding to name list.
+2018-08-07 09:18:43: Planet's name is Erosvea
+2018-08-07 09:18:43: Erosvea's mass is 586195687386853372911001
+2018-08-07 09:18:43: Erosvea's radius is 4245
+2018-08-07 09:18:43: Minimum distance is 3746918
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Erosvea Created
+2018-08-07 09:18:43: Creating planet 3
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Nuncac' adding to name list.
+2018-08-07 09:18:43: Planet's name is Nuncac
+2018-08-07 09:18:43: Nuncac's mass is 513903186316354966891333
+2018-08-07 09:18:43: Nuncac's radius is 3661
+2018-08-07 09:18:43: Minimum distance is 3376370
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Nuncac Created
+2018-08-07 09:18:43: Creating planet 4
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Quisida' adding to name list.
+2018-08-07 09:18:43: Planet's name is Quisida
+2018-08-07 09:18:43: Quisida's mass is 371040675734637447299104
+2018-08-07 09:18:43: Quisida's radius is 2954
+2018-08-07 09:18:43: Minimum distance is 3036785
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Quisida Created
+2018-08-07 09:18:43: Creating planet 5
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Crasidin' adding to name list.
+2018-08-07 09:18:43: Planet's name is Crasidin
+2018-08-07 09:18:43: Crasidin's mass is 141151405640595887232068
+2018-08-07 09:18:43: Crasidin's radius is 1870
+2018-08-07 09:18:43: Minimum distance is 2653122
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Crasidin Created
+2018-08-07 09:18:43: Creating planet 6
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Quaminquis' adding to name list.
+2018-08-07 09:18:43: Planet's name is Quaminquis
+2018-08-07 09:18:43: Quaminquis's mass is 201152354466997118700015
+2018-08-07 09:18:43: Quaminquis's radius is 2446
+2018-08-07 09:18:43: Minimum distance is 3083842
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Quaminquis Created
+2018-08-07 09:18:43: Creating planet 7
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Eratvea' adding to name list.
+2018-08-07 09:18:43: Planet's name is Eratvea
+2018-08-07 09:18:43: Eratvea's mass is 479909570303369461492784
+2018-08-07 09:18:43: Eratvea's radius is 3806
+2018-08-07 09:18:43: Minimum distance is 3591090
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Eratvea Created
+2018-08-07 09:18:43: Creating planet 8
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Reduntant name 'Nisleua'.
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Nisleuaquamin' adding to name list.
+2018-08-07 09:18:43: Planet's name is Nisleuaquamin
+2018-08-07 09:18:43: Nisleuaquamin's mass is 392379739784114312164100
+2018-08-07 09:18:43: Nisleuaquamin's radius is 3635
+2018-08-07 09:18:43: Minimum distance is 3667861
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Nisleuaquamin Created
+2018-08-07 09:18:43: Creating planet 9
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Nislaca' adding to name list.
+2018-08-07 09:18:43: Planet's name is Nislaca
+2018-08-07 09:18:43: Nislaca's mass is 599698059916139104530164
+2018-08-07 09:18:43: Nislaca's radius is 3938
+2018-08-07 09:18:43: Minimum distance is 3449654
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Nislaca Created
+2018-08-07 09:18:43: Creating planet 10
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Reduntant name 'Elitad'.
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Elitadnunciderat' adding to name list.
+2018-08-07 09:18:43: Planet's name is Elitadnunciderat
+2018-08-07 09:18:43: Elitadnunciderat's mass is 80981835412141269509868
+2018-08-07 09:18:43: Elitadnunciderat's radius is 2298
+2018-08-07 09:18:43: Minimum distance is 3923722
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Elitadnunciderat Created
+2018-08-07 09:18:43: Creating planet 11
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Reduntant name 'Elitida'.
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Elitidaduismia' adding to name list.
+2018-08-07 09:18:43: Planet's name is Elitidaduismia
+2018-08-07 09:18:43: Elitidaduismia's mass is 95809322462623686624968
+2018-08-07 09:18:43: Elitidaduismia's radius is 1904
+2018-08-07 09:18:43: Minimum distance is 3073796
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Elitidaduismia Created
+2018-08-07 09:18:43: Creating planet 12
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Reduntant name 'Nislat'.
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Nislatdiameta' adding to name list.
+2018-08-07 09:18:43: Planet's name is Nislatdiameta
+2018-08-07 09:18:43: Nislatdiameta's mass is 166006973356366098201754
+2018-08-07 09:18:43: Nislatdiameta's radius is 2401
+2018-08-07 09:18:43: Minimum distance is 3227211
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Nislatdiameta Created
+2018-08-07 09:18:43: Creating planet 13
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Anteve' adding to name list.
+2018-08-07 09:18:43: Planet's name is Anteve
+2018-08-07 09:18:43: Anteve's mass is 443226171858430937656151
+2018-08-07 09:18:43: Anteve's radius is 2628
+2018-08-07 09:18:43: Minimum distance is 2546210
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Anteve Created
+2018-08-07 09:18:43: Creating planet 14
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Diammiat' adding to name list.
+2018-08-07 09:18:43: Planet's name is Diammiat
+2018-08-07 09:18:43: Diammiat's mass is 4652882958726995531447401
+2018-08-07 09:18:43: Diammiat's radius is 7541
+2018-08-07 09:18:43: Minimum distance is 3336816
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Diammiat Created
+2018-08-07 09:18:43: Creating planet 15
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Reduntant name 'Duisina'.
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Duisinapedeeta' adding to name list.
+2018-08-07 09:18:43: Planet's name is Duisinapedeeta
+2018-08-07 09:18:43: Duisinapedeeta's mass is 321366520280704736406423
+2018-08-07 09:18:43: Duisinapedeeta's radius is 2945
+2018-08-07 09:18:43: Minimum distance is 3176112
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Duisinapedeeta Created
+2018-08-07 09:18:43: Creating planet 16
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Reduntant name 'Anteata'.
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Anteataerateua' adding to name list.
+2018-08-07 09:18:43: Planet's name is Anteataerateua
+2018-08-07 09:18:43: Anteataerateua's mass is 408495348021896808800083
+2018-08-07 09:18:43: Anteataerateua's radius is 4372
+2018-08-07 09:18:43: Minimum distance is 4352731
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Anteataerateua Created
+2018-08-07 09:18:43: Creating planet 17
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Reduntant name 'Egetat'.
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Egetatnisluta' adding to name list.
+2018-08-07 09:18:43: Planet's name is Egetatnisluta
+2018-08-07 09:18:43: Egetatnisluta's mass is 1336139443813909989643398
+2018-08-07 09:18:43: Egetatnisluta's radius is 4652
+2018-08-07 09:18:43: Minimum distance is 3120085
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Egetatnisluta Created
+2018-08-07 09:18:43: Creating planet 18
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Reduntant name 'Enimina'.
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Eniminaerosutad' adding to name list.
+2018-08-07 09:18:43: Planet's name is Eniminaerosutad
+2018-08-07 09:18:43: Eniminaerosutad's mass is 88295423739337229378119
+2018-08-07 09:18:43: Eniminaerosutad's radius is 1981
+2018-08-07 09:18:43: Minimum distance is 3286365
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Eniminaerosutad Created
+2018-08-07 09:18:43: Creating planet 19
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Quisvea' adding to name list.
+2018-08-07 09:18:43: Planet's name is Quisvea
+2018-08-07 09:18:43: Quisvea's mass is 585719163311541747428117
+2018-08-07 09:18:43: Quisvea's radius is 3611
+2018-08-07 09:18:43: Minimum distance is 3188172
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Quisvea Created
+2018-08-07 09:18:43: Creating planet 20
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Ametata' adding to name list.
+2018-08-07 09:18:43: Planet's name is Ametata
+2018-08-07 09:18:43: Ametata's mass is 102413204005883625212728
+2018-08-07 09:18:43: Ametata's radius is 2149
+2018-08-07 09:18:43: Minimum distance is 3393088
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Ametata Created
+2018-08-07 09:18:43: Creating planet 21
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Arcuetnonummy' adding to name list.
+2018-08-07 09:18:43: Planet's name is Arcuetnonummy
+2018-08-07 09:18:43: Arcuetnonummy's mass is 435393021947624952573085
+2018-08-07 09:18:43: Arcuetnonummy's radius is 2846
+2018-08-07 09:18:43: Minimum distance is 2773864
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Arcuetnonummy Created
+2018-08-07 09:18:43: Creating planet 22
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Nisiidad' adding to name list.
+2018-08-07 09:18:43: Planet's name is Nisiidad
+2018-08-07 09:18:43: Nisiidad's mass is 562062921645766688140028
+2018-08-07 09:18:43: Nisiidad's radius is 2998
+2018-08-07 09:18:43: Minimum distance is 2683577
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Nisiidad Created
+2018-08-07 09:18:43: Creating planet 23
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Reduntant name 'Crasina'.
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Crasinanisiatid' adding to name list.
+2018-08-07 09:18:43: Planet's name is Crasinanisiatid
+2018-08-07 09:18:43: Crasinanisiatid's mass is 389646948988553759596214
+2018-08-07 09:18:43: Crasinanisiatid's radius is 3946
+2018-08-07 09:18:43: Minimum distance is 3990960
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Crasinanisiatid Created
+2018-08-07 09:18:43: Creating planet 24
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Elitveid' adding to name list.
+2018-08-07 09:18:43: Planet's name is Elitveid
+2018-08-07 09:18:43: Elitveid's mass is 5783086733186679426171380
+2018-08-07 09:18:43: Elitveid's radius is 8835
+2018-08-07 09:18:43: Minimum distance is 3636057
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Elitveid Created
+2018-08-07 09:18:43: Creating planet 25
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Reduntant name 'Urnaid'.
+2018-08-07 09:18:43: Generating new name.
+2018-08-07 09:18:43: Unique name found, 'Urnaidurnaeu' adding to name list.
+2018-08-07 09:18:43: Planet's name is Urnaidurnaeu
+2018-08-07 09:18:43: Urnaidurnaeu's mass is 559383924724147891911707
+2018-08-07 09:18:43: Urnaidurnaeu's radius is 4377
+2018-08-07 09:18:43: Minimum distance is 3924195
+2018-08-07 09:18:43: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:18:43: Planet Urnaidurnaeu Created
+2018-08-07 09:18:43: 25 planets generated.
+2018-08-07 09:18:43: Returning list of planet names to user.
+2018-08-07 09:19:05: Displaying main test page.
+2018-08-07 09:19:08: Displaying main test page.
+2018-08-07 09:19:08: User entered 25 planets.
+2018-08-07 09:19:08: Generating solar system from user input.
+2018-08-07 09:19:08: A new solar system has been requested
+2018-08-07 09:19:08: Radius: 0
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Egetida' adding to name list.
+2018-08-07 09:19:08: Star name randomly generated as: Egetida
+
+2018-08-07 09:19:08: Star mass randomly generated as: 41045128788274557560803809983527
+
+2018-08-07 09:19:08: Populating the solar system with planets.
+2018-08-07 09:19:08: Creating planet 1
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Nisleta' adding to name list.
+2018-08-07 09:19:08: Planet's name is Nisleta
+2018-08-07 09:19:08: Nisleta's mass is 386106073588416662941232
+2018-08-07 09:19:08: Nisleta's radius is 2971
+2018-08-07 09:19:08: Minimum distance is 1773338
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Nisleta Created
+2018-08-07 09:19:08: Creating planet 2
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Nisiacad' adding to name list.
+2018-08-07 09:19:08: Planet's name is Nisiacad
+2018-08-07 09:19:08: Nisiacad's mass is 309284526133751874186057
+2018-08-07 09:19:08: Nisiacad's radius is 3404
+2018-08-07 09:19:08: Minimum distance is 2187734
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Nisiacad Created
+2018-08-07 09:19:08: Creating planet 3
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Enimadin' adding to name list.
+2018-08-07 09:19:08: Planet's name is Enimadin
+2018-08-07 09:19:08: Enimadin's mass is 4661988055860919970680494
+2018-08-07 09:19:08: Enimadin's radius is 9554
+2018-08-07 09:19:08: Minimum distance is 2485722
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Enimadin Created
+2018-08-07 09:19:08: Creating planet 4
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Diameua' adding to name list.
+2018-08-07 09:19:08: Planet's name is Diameua
+2018-08-07 09:19:08: Diameua's mass is 1378395696066436233573734
+2018-08-07 09:19:08: Diameua's radius is 5572
+2018-08-07 09:19:08: Minimum distance is 2176093
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Diameua Created
+2018-08-07 09:19:08: Creating planet 5
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Anteacet' adding to name list.
+2018-08-07 09:19:08: Planet's name is Anteacet
+2018-08-07 09:19:08: Anteacet's mass is 331398789014881900336084
+2018-08-07 09:19:08: Anteacet's radius is 2952
+2018-08-07 09:19:08: Minimum distance is 1854060
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Anteacet Created
+2018-08-07 09:19:08: Creating planet 6
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Nuncetquis' adding to name list.
+2018-08-07 09:19:08: Planet's name is Nuncetquis
+2018-08-07 09:19:08: Nuncetquis's mass is 204084583640543158415079
+2018-08-07 09:19:08: Nuncetquis's radius is 2586
+2018-08-07 09:19:08: Minimum distance is 1909045
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Nuncetquis Created
+2018-08-07 09:19:08: Creating planet 7
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Nibhida' adding to name list.
+2018-08-07 09:19:08: Planet's name is Nibhida
+2018-08-07 09:19:08: Nibhida's mass is 3997214180287500910205107
+2018-08-07 09:19:08: Nibhida's radius is 5624
+2018-08-07 09:19:08: Minimum distance is 1540224
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Nibhida Created
+2018-08-07 09:19:08: Creating planet 8
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Reduntant name 'Erosat'.
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Erosatnuncina' adding to name list.
+2018-08-07 09:19:08: Planet's name is Erosatnuncina
+2018-08-07 09:19:08: Erosatnuncina's mass is 2872658397602065592648808
+2018-08-07 09:19:08: Erosatnuncina's radius is 6970
+2018-08-07 09:19:08: Minimum distance is 2131060
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Erosatnuncina Created
+2018-08-07 09:19:08: Creating planet 9
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Reduntant name 'Orciaca'.
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Orciacaegetinnatoque' adding to name list.
+2018-08-07 09:19:08: Planet's name is Orciacaegetinnatoque
+2018-08-07 09:19:08: Orciacaegetinnatoque's mass is 180462551254246041780674
+2018-08-07 09:19:08: Orciacaegetinnatoque's radius is 2819
+2018-08-07 09:19:08: Minimum distance is 2168155
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Orciacaegetinnatoque Created
+2018-08-07 09:19:08: Creating planet 10
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Quamac' adding to name list.
+2018-08-07 09:19:08: Planet's name is Quamac
+2018-08-07 09:19:08: Quamac's mass is 383678120972921614585939
+2018-08-07 09:19:08: Quamac's radius is 2540
+2018-08-07 09:19:08: Minimum distance is 1519272
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Quamac Created
+2018-08-07 09:19:08: Creating planet 11
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Reduntant name 'Anteina'.
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Anteinaarcuaca' adding to name list.
+2018-08-07 09:19:08: Planet's name is Anteinaarcuaca
+2018-08-07 09:19:08: Anteinaarcuaca's mass is 5938147045642691179930194
+2018-08-07 09:19:08: Anteinaarcuaca's radius is 9174
+2018-08-07 09:19:08: Minimum distance is 2201909
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Anteinaarcuaca Created
+2018-08-07 09:19:08: Creating planet 12
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Reduntant name 'Nisleua'.
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Nisleuaametad' adding to name list.
+2018-08-07 09:19:08: Planet's name is Nisleuaametad
+2018-08-07 09:19:08: Nisleuaametad's mass is 572131227704459270996523
+2018-08-07 09:19:08: Nisleuaametad's radius is 3424
+2018-08-07 09:19:08: Minimum distance is 1792639
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Nisleuaametad Created
+2018-08-07 09:19:08: Creating planet 13
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Elitetve' adding to name list.
+2018-08-07 09:19:08: Planet's name is Elitetve
+2018-08-07 09:19:08: Elitetve's mass is 338315515984721871682174
+2018-08-07 09:19:08: Elitetve's radius is 3719
+2018-08-07 09:19:08: Minimum distance is 2319761
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Elitetve Created
+2018-08-07 09:19:08: Creating planet 14
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Urnaeua' adding to name list.
+2018-08-07 09:19:08: Planet's name is Urnaeua
+2018-08-07 09:19:08: Urnaeua's mass is 3221845077210202402155440
+2018-08-07 09:19:08: Urnaeua's radius is 8548
+2018-08-07 09:19:08: Minimum distance is 2515479
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Urnaeua Created
+2018-08-07 09:19:08: Creating planet 15
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Reduntant name 'Anteve'.
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Antevequisaca' adding to name list.
+2018-08-07 09:19:08: Planet's name is Antevequisaca
+2018-08-07 09:19:08: Antevequisaca's mass is 315236439200409069713282
+2018-08-07 09:19:08: Antevequisaca's radius is 2493
+2018-08-07 09:19:08: Minimum distance is 1592091
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Antevequisaca Created
+2018-08-07 09:19:08: Creating planet 16
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Eroset' adding to name list.
+2018-08-07 09:19:08: Planet's name is Eroset
+2018-08-07 09:19:08: Eroset's mass is 537686326839275525024284
+2018-08-07 09:19:08: Eroset's radius is 3301
+2018-08-07 09:19:08: Minimum distance is 1764386
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Eroset Created
+2018-08-07 09:19:08: Creating planet 17
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Reduntant name 'Nuncmia'.
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Nuncmiaorciata' adding to name list.
+2018-08-07 09:19:08: Planet's name is Nuncmiaorciata
+2018-08-07 09:19:08: Nuncmiaorciata's mass is 541515316624965901532273
+2018-08-07 09:19:08: Nuncmiaorciata's radius is 2475
+2018-08-07 09:19:08: Minimum distance is 1319763
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Nuncmiaorciata Created
+2018-08-07 09:19:08: Creating planet 18
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Urnaata' adding to name list.
+2018-08-07 09:19:08: Planet's name is Urnaata
+2018-08-07 09:19:08: Urnaata's mass is 133821679142807757035307
+2018-08-07 09:19:08: Urnaata's radius is 1845
+2018-08-07 09:19:08: Minimum distance is 1567756
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Urnaata Created
+2018-08-07 09:19:08: Creating planet 19
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Odiomia' adding to name list.
+2018-08-07 09:19:08: Planet's name is Odiomia
+2018-08-07 09:19:08: Odiomia's mass is 385881253592196527638163
+2018-08-07 09:19:08: Odiomia's radius is 2825
+2018-08-07 09:19:08: Minimum distance is 1686520
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Odiomia Created
+2018-08-07 09:19:08: Creating planet 20
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Quameta' adding to name list.
+2018-08-07 09:19:08: Planet's name is Quameta
+2018-08-07 09:19:08: Quameta's mass is 210253328951044373249770
+2018-08-07 09:19:08: Quameta's radius is 3346
+2018-08-07 09:19:08: Minimum distance is 2445697
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Quameta Created
+2018-08-07 09:19:08: Creating planet 21
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Reduntant name 'Odioida'.
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Odioidadiamacet' adding to name list.
+2018-08-07 09:19:08: Planet's name is Odioidadiamacet
+2018-08-07 09:19:08: Odioidadiamacet's mass is 1853537042679611309281261
+2018-08-07 09:19:08: Odioidadiamacet's radius is 5108
+2018-08-07 09:19:08: Minimum distance is 1807347
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Odioidadiamacet Created
+2018-08-07 09:19:08: Creating planet 22
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Quamatmi' adding to name list.
+2018-08-07 09:19:08: Planet's name is Quamatmi
+2018-08-07 09:19:08: Quamatmi's mass is 576211590184364073781178
+2018-08-07 09:19:08: Quamatmi's radius is 4671
+2018-08-07 09:19:08: Minimum distance is 2439721
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Quamatmi Created
+2018-08-07 09:19:08: Creating planet 23
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Ametadve' adding to name list.
+2018-08-07 09:19:08: Planet's name is Ametadve
+2018-08-07 09:19:08: Ametadve's mass is 544186455045676574587674
+2018-08-07 09:19:08: Ametadve's radius is 4260
+2018-08-07 09:19:08: Minimum distance is 2267869
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Ametadve Created
+2018-08-07 09:19:08: Creating planet 24
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Erateu' adding to name list.
+2018-08-07 09:19:08: Planet's name is Erateu
+2018-08-07 09:19:08: Erateu's mass is 355715467305251720376658
+2018-08-07 09:19:08: Erateu's radius is 3285
+2018-08-07 09:19:08: Minimum distance is 2015079
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Erateu Created
+2018-08-07 09:19:08: Creating planet 25
+2018-08-07 09:19:08: Generating new name.
+2018-08-07 09:19:08: Unique name found, 'Quamuta' adding to name list.
+2018-08-07 09:19:08: Planet's name is Quamuta
+2018-08-07 09:19:08: Quamuta's mass is 268836891322186237563274
+2018-08-07 09:19:08: Quamuta's radius is 2495
+2018-08-07 09:19:08: Minimum distance is 1680216
+2018-08-07 09:19:08: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:08: Planet Quamuta Created
+2018-08-07 09:19:08: 25 planets generated.
+2018-08-07 09:19:08: Returning list of planet names to user.
+2018-08-07 09:19:26: Displaying main test page.
+2018-08-07 09:19:33: Displaying main test page.
+2018-08-07 09:19:33: User entered 25 planets.
+2018-08-07 09:19:33: Generating solar system from user input.
+2018-08-07 09:19:33: A new solar system has been requested
+2018-08-07 09:19:33: Radius: 0
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Reduntant name 'Quisaca'.
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Quisacanuncid' adding to name list.
+2018-08-07 09:19:33: Star name randomly generated as: Quisacanuncid
+
+2018-08-07 09:19:33: Star mass randomly generated as: 206967581554446672400765021926915
+
+2018-08-07 09:19:33: Populating the solar system with planets.
+2018-08-07 09:19:33: Creating planet 1
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Quamatad' adding to name list.
+2018-08-07 09:19:33: Planet's name is Quamatad
+2018-08-07 09:19:33: Quamatad's mass is 170039652274055353929163
+2018-08-07 09:19:33: Quamatad's radius is 1665
+2018-08-07 09:19:33: Minimum distance is 2239935
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Quamatad Created
+2018-08-07 09:19:33: Creating planet 2
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Nuncacin' adding to name list.
+2018-08-07 09:19:33: Planet's name is Nuncacin
+2018-08-07 09:19:33: Nuncacin's mass is 5977572572981168906822694
+2018-08-07 09:19:33: Nuncacin's radius is 7054
+2018-08-07 09:19:33: Minimum distance is 2896888
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Nuncacin Created
+2018-08-07 09:19:33: Creating planet 3
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Reduntant name 'Anteata'.
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Anteatadiamaca' adding to name list.
+2018-08-07 09:19:33: Planet's name is Anteatadiamaca
+2018-08-07 09:19:33: Anteatadiamaca's mass is 238228685538098744632630
+2018-08-07 09:19:33: Anteatadiamaca's radius is 2458
+2018-08-07 09:19:33: Minimum distance is 2955211
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Anteatadiamaca Created
+2018-08-07 09:19:33: Creating planet 4
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Craset' adding to name list.
+2018-08-07 09:19:33: Planet's name is Craset
+2018-08-07 09:19:33: Craset's mass is 4714344893070347341751443
+2018-08-07 09:19:33: Craset's radius is 6628
+2018-08-07 09:19:33: Minimum distance is 2946094
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Craset Created
+2018-08-07 09:19:33: Creating planet 5
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Pedemiin' adding to name list.
+2018-08-07 09:19:33: Planet's name is Pedemiin
+2018-08-07 09:19:33: Pedemiin's mass is 4675300303092959670805212910
+2018-08-07 09:19:33: Pedemiin's radius is 78660
+2018-08-07 09:19:33: Minimum distance is 3506082
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Pedemiin Created
+2018-08-07 09:19:33: Creating planet 6
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Quameu' adding to name list.
+2018-08-07 09:19:33: Planet's name is Quameu
+2018-08-07 09:19:33: Quameu's mass is 462368193942751082338451
+2018-08-07 09:19:33: Quameu's radius is 4016
+2018-08-07 09:19:33: Minimum distance is 3870814
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Quameu Created
+2018-08-07 09:19:33: Creating planet 7
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Reduntant name 'Egetida'.
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Egetidaelitetat' adding to name list.
+2018-08-07 09:19:33: Planet's name is Egetidaelitetat
+2018-08-07 09:19:33: Egetidaelitetat's mass is 550496578663935582615202
+2018-08-07 09:19:33: Egetidaelitetat's radius is 3944
+2018-08-07 09:19:33: Minimum distance is 3586658
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Egetidaelitetat Created
+2018-08-07 09:19:33: Creating planet 8
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Nislida' adding to name list.
+2018-08-07 09:19:33: Planet's name is Nislida
+2018-08-07 09:19:33: Nislida's mass is 409343718106352367353363
+2018-08-07 09:19:33: Nislida's radius is 4335
+2018-08-07 09:19:33: Minimum distance is 4351420
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Nislida Created
+2018-08-07 09:19:33: Creating planet 9
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Reduntant name 'Nuncvea'.
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Nuncveaametatad' adding to name list.
+2018-08-07 09:19:33: Planet's name is Nuncveaametatad
+2018-08-07 09:19:33: Nuncveaametatad's mass is 156770854601940138809751
+2018-08-07 09:19:33: Nuncveaametatad's radius is 2733
+2018-08-07 09:19:33: Minimum distance is 3777656
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Nuncveaametatad Created
+2018-08-07 09:19:33: Creating planet 10
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Reduntant name 'Arcuvea'.
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Arcuveanuncida' adding to name list.
+2018-08-07 09:19:33: Planet's name is Arcuveanuncida
+2018-08-07 09:19:33: Arcuveanuncida's mass is 5465425077543671691790704
+2018-08-07 09:19:33: Arcuveanuncida's radius is 8072
+2018-08-07 09:19:33: Minimum distance is 3415422
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Arcuveanuncida Created
+2018-08-07 09:19:33: Creating planet 11
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Arcuet' adding to name list.
+2018-08-07 09:19:33: Planet's name is Arcuet
+2018-08-07 09:19:33: Arcuet's mass is 486686212085756378965109
+2018-08-07 09:19:33: Arcuet's radius is 3664
+2018-08-07 09:19:33: Minimum distance is 3471712
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Arcuet Created
+2018-08-07 09:19:33: Creating planet 12
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Orciutac' adding to name list.
+2018-08-07 09:19:33: Planet's name is Orciutac
+2018-08-07 09:19:33: Orciutac's mass is 129065507872763844556277
+2018-08-07 09:19:33: Orciutac's radius is 2475
+2018-08-07 09:19:33: Minimum distance is 3650142
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Orciutac Created
+2018-08-07 09:19:33: Creating planet 13
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Erosina' adding to name list.
+2018-08-07 09:19:33: Planet's name is Erosina
+2018-08-07 09:19:33: Erosina's mass is 84583582828390334752845
+2018-08-07 09:19:33: Erosina's radius is 1498
+2018-08-07 09:19:33: Minimum distance is 2543437
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Erosina Created
+2018-08-07 09:19:33: Creating planet 14
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Eratata' adding to name list.
+2018-08-07 09:19:33: Planet's name is Eratata
+2018-08-07 09:19:33: Eratata's mass is 316420570793212777681521
+2018-08-07 09:19:33: Eratata's radius is 2872
+2018-08-07 09:19:33: Minimum distance is 3141238
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Eratata Created
+2018-08-07 09:19:33: Creating planet 15
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Orciacad' adding to name list.
+2018-08-07 09:19:33: Planet's name is Orciacad
+2018-08-07 09:19:33: Orciacad's mass is 98473195464072159905793
+2018-08-07 09:19:33: Orciacad's radius is 1785
+2018-08-07 09:19:33: Minimum distance is 2880957
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Orciacad Created
+2018-08-07 09:19:33: Creating planet 16
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Ametina' adding to name list.
+2018-08-07 09:19:33: Planet's name is Ametina
+2018-08-07 09:19:33: Ametina's mass is 540542300735956804595187
+2018-08-07 09:19:33: Ametina's radius is 3820
+2018-08-07 09:19:33: Minimum distance is 3495088
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Ametina Created
+2018-08-07 09:19:33: Creating planet 17
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Crasac' adding to name list.
+2018-08-07 09:19:33: Planet's name is Crasac
+2018-08-07 09:19:33: Crasac's mass is 1719803439766060752876468
+2018-08-07 09:19:33: Crasac's radius is 7017
+2018-08-07 09:19:33: Minimum distance is 4365123
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Crasac Created
+2018-08-07 09:19:33: Creating planet 18
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Reduntant name 'Craseta'.
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Crasetaanteeta' adding to name list.
+2018-08-07 09:19:33: Planet's name is Crasetaanteeta
+2018-08-07 09:19:33: Crasetaanteeta's mass is 2572111892884890859654554
+2018-08-07 09:19:33: Crasetaanteeta's radius is 5921
+2018-08-07 09:19:33: Minimum distance is 3220844
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Crasetaanteeta Created
+2018-08-07 09:19:33: Creating planet 19
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Reduntant name 'Odioeta'.
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Odioetaerosidat' adding to name list.
+2018-08-07 09:19:33: Planet's name is Odioetaerosidat
+2018-08-07 09:19:33: Odioetaerosidat's mass is 86035878385236908600986
+2018-08-07 09:19:33: Odioetaerosidat's radius is 2685
+2018-08-07 09:19:33: Minimum distance is 4533035
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Odioetaerosidat Created
+2018-08-07 09:19:33: Creating planet 20
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Reduntant name 'Eliteua'.
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Eliteuanislada' adding to name list.
+2018-08-07 09:19:33: Planet's name is Eliteuanislada
+2018-08-07 09:19:33: Eliteuanislada's mass is 98300496823334623546992
+2018-08-07 09:19:33: Eliteuanislada's radius is 2083
+2018-08-07 09:19:33: Minimum distance is 3363891
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Eliteuanislada Created
+2018-08-07 09:19:33: Creating planet 21
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Nisiid' adding to name list.
+2018-08-07 09:19:33: Planet's name is Nisiid
+2018-08-07 09:19:33: Nisiid's mass is 214476946410833062038167
+2018-08-07 09:19:33: Nisiid's radius is 2616
+2018-08-07 09:19:33: Minimum distance is 3257233
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Nisiid Created
+2018-08-07 09:19:33: Creating planet 22
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Egetuta' adding to name list.
+2018-08-07 09:19:33: Planet's name is Egetuta
+2018-08-07 09:19:33: Egetuta's mass is 1659539936386733900878184
+2018-08-07 09:19:33: Egetuta's radius is 3930
+2018-08-07 09:19:33: Minimum distance is 2474009
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Egetuta Created
+2018-08-07 09:19:33: Creating planet 23
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Duiseuac' adding to name list.
+2018-08-07 09:19:33: Planet's name is Duiseuac
+2018-08-07 09:19:33: Duiseuac's mass is 529369490140943261996669
+2018-08-07 09:19:33: Duiseuac's radius is 4135
+2018-08-07 09:19:33: Minimum distance is 3809727
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Duiseuac Created
+2018-08-07 09:19:33: Creating planet 24
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Quisacconubia' adding to name list.
+2018-08-07 09:19:33: Planet's name is Quisacconubia
+2018-08-07 09:19:33: Quisacconubia's mass is 2159369253359194223939899
+2018-08-07 09:19:33: Quisacconubia's radius is 5249
+2018-08-07 09:19:33: Minimum distance is 3026720
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Quisacconubia Created
+2018-08-07 09:19:33: Creating planet 25
+2018-08-07 09:19:33: Generating new name.
+2018-08-07 09:19:33: Unique name found, 'Erataca' adding to name list.
+2018-08-07 09:19:33: Planet's name is Erataca
+2018-08-07 09:19:33: Erataca's mass is 4841453636556508564697009
+2018-08-07 09:19:33: Erataca's radius is 8441
+2018-08-07 09:19:33: Minimum distance is 3718832
+2018-08-07 09:19:33: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:33: Planet Erataca Created
+2018-08-07 09:19:33: 25 planets generated.
+2018-08-07 09:19:33: Returning list of planet names to user.
+2018-08-07 09:19:51: Displaying main test page.
+2018-08-07 09:19:59: Displaying main test page.
+2018-08-07 09:19:59: User entered 25 planets.
+2018-08-07 09:19:59: Generating solar system from user input.
+2018-08-07 09:19:59: A new solar system has been requested
+2018-08-07 09:19:59: Radius: 0
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Arcumia' adding to name list.
+2018-08-07 09:19:59: Star name randomly generated as: Arcumia
+
+2018-08-07 09:19:59: Star mass randomly generated as: 77617921273290363345958448651698
+
+2018-08-07 09:19:59: Populating the solar system with planets.
+2018-08-07 09:19:59: Creating planet 1
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Odioacat' adding to name list.
+2018-08-07 09:19:59: Planet's name is Odioacat
+2018-08-07 09:19:59: Odioacat's mass is 214739117374444884202822
+2018-08-07 09:19:59: Odioacat's radius is 2374
+2018-08-07 09:19:59: Minimum distance is 2130761
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Odioacat Created
+2018-08-07 09:19:59: Creating planet 2
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Reduntant name 'Erateta'.
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Eratetaenimmia' adding to name list.
+2018-08-07 09:19:59: Planet's name is Eratetaenimmia
+2018-08-07 09:19:59: Eratetaenimmia's mass is 158290852687212155733108
+2018-08-07 09:19:59: Eratetaenimmia's radius is 2537
+2018-08-07 09:19:59: Minimum distance is 2520730
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Eratetaenimmia Created
+2018-08-07 09:19:59: Creating planet 3
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Elitada' adding to name list.
+2018-08-07 09:19:59: Planet's name is Elitada
+2018-08-07 09:19:59: Elitada's mass is 221207692956700857034156
+2018-08-07 09:19:59: Elitada's radius is 3578
+2018-08-07 09:19:59: Minimum distance is 3179787
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Elitada Created
+2018-08-07 09:19:59: Creating planet 4
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Nisieuad' adding to name list.
+2018-08-07 09:19:59: Planet's name is Nisieuad
+2018-08-07 09:19:59: Nisieuad's mass is 145867752961078620836541
+2018-08-07 09:19:59: Nisieuad's radius is 2598
+2018-08-07 09:19:59: Minimum distance is 2652633
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Nisieuad Created
+2018-08-07 09:19:59: Creating planet 5
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Reduntant name 'Crasina'.
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Crasinanisleta' adding to name list.
+2018-08-07 09:19:59: Planet's name is Crasinanisleta
+2018-08-07 09:19:59: Crasinanisleta's mass is 500596804310938569391865
+2018-08-07 09:19:59: Crasinanisleta's radius is 4548
+2018-08-07 09:19:59: Minimum distance is 3078569
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Crasinanisleta Created
+2018-08-07 09:19:59: Creating planet 6
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Urnaveid' adding to name list.
+2018-08-07 09:19:59: Planet's name is Urnaveid
+2018-08-07 09:19:59: Urnaveid's mass is 176801867170672034993888
+2018-08-07 09:19:59: Urnaveid's radius is 1951
+2018-08-07 09:19:59: Minimum distance is 1868326
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Urnaveid Created
+2018-08-07 09:19:59: Creating planet 7
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Nibheua' adding to name list.
+2018-08-07 09:19:59: Planet's name is Nibheua
+2018-08-07 09:19:59: Nibheua's mass is 356574926787757551178958
+2018-08-07 09:19:59: Nibheua's radius is 2719
+2018-08-07 09:19:59: Minimum distance is 2060867
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Nibheua Created
+2018-08-07 09:19:59: Creating planet 8
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Reduntant name 'Urnaata'.
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Urnaataameteta' adding to name list.
+2018-08-07 09:19:59: Planet's name is Urnaataameteta
+2018-08-07 09:19:59: Urnaataameteta's mass is 537535073696840329518568
+2018-08-07 09:19:59: Urnaataameteta's radius is 4626
+2018-08-07 09:19:59: Minimum distance is 3057932
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Urnaataameteta Created
+2018-08-07 09:19:59: Creating planet 9
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Reduntant name 'Urnaeua'.
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Urnaeuacrasateget' adding to name list.
+2018-08-07 09:19:59: Planet's name is Urnaeuacrasateget
+2018-08-07 09:19:59: Urnaeuacrasateget's mass is 3550069335033432055285253
+2018-08-07 09:19:59: Urnaeuacrasateget's radius is 8281
+2018-08-07 09:19:59: Minimum distance is 2917617
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Urnaeuacrasateget Created
+2018-08-07 09:19:59: Creating planet 10
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Quamveeu' adding to name list.
+2018-08-07 09:19:59: Planet's name is Quamveeu
+2018-08-07 09:19:59: Quamveeu's mass is 95793969692178163497723
+2018-08-07 09:19:59: Quamveeu's radius is 1917
+2018-08-07 09:19:59: Minimum distance is 2251821
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Quamveeu Created
+2018-08-07 09:19:59: Creating planet 11
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Crasuta' adding to name list.
+2018-08-07 09:19:59: Planet's name is Crasuta
+2018-08-07 09:19:59: Crasuta's mass is 139465547466552083282229
+2018-08-07 09:19:59: Crasuta's radius is 2239
+2018-08-07 09:19:59: Minimum distance is 2320543
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Crasuta Created
+2018-08-07 09:19:59: Creating planet 12
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Ametvea' adding to name list.
+2018-08-07 09:19:59: Planet's name is Ametvea
+2018-08-07 09:19:59: Ametvea's mass is 3252478841308096353395214
+2018-08-07 09:19:59: Ametvea's radius is 5149
+2018-08-07 09:19:59: Minimum distance is 1867852
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Ametvea Created
+2018-08-07 09:19:59: Creating planet 13
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Odiouta' adding to name list.
+2018-08-07 09:19:59: Planet's name is Odiouta
+2018-08-07 09:19:59: Odiouta's mass is 2977087414769532360786522
+2018-08-07 09:19:59: Odiouta's radius is 6268
+2018-08-07 09:19:59: Minimum distance is 2341835
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Odiouta Created
+2018-08-07 09:19:59: Creating planet 14
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Nibhina' adding to name list.
+2018-08-07 09:19:59: Planet's name is Nibhina
+2018-08-07 09:19:59: Nibhina's mass is 2906528058690847483712839
+2018-08-07 09:19:59: Nibhina's radius is 6661
+2018-08-07 09:19:59: Minimum distance is 2508644
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Nibhina Created
+2018-08-07 09:19:59: Creating planet 15
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Quiseuad' adding to name list.
+2018-08-07 09:19:59: Planet's name is Quiseuad
+2018-08-07 09:19:59: Quiseuad's mass is 510698518375170351388239
+2018-08-07 09:19:59: Quiseuad's radius is 3602
+2018-08-07 09:19:59: Minimum distance is 2422033
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Quiseuad Created
+2018-08-07 09:19:59: Creating planet 16
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Enimut' adding to name list.
+2018-08-07 09:19:59: Planet's name is Enimut
+2018-08-07 09:19:59: Enimut's mass is 459777356265763378749043
+2018-08-07 09:19:59: Enimut's radius is 2336
+2018-08-07 09:19:59: Minimum distance is 1626727
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Enimut Created
+2018-08-07 09:19:59: Creating planet 17
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Nisluta' adding to name list.
+2018-08-07 09:19:59: Planet's name is Nisluta
+2018-08-07 09:19:59: Nisluta's mass is 689501121019813990913114
+2018-08-07 09:19:59: Nisluta's radius is 5265
+2018-08-07 09:19:59: Minimum distance is 3203154
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Nisluta Created
+2018-08-07 09:19:59: Creating planet 18
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Pedeata' adding to name list.
+2018-08-07 09:19:59: Planet's name is Pedeata
+2018-08-07 09:19:59: Pedeata's mass is 2467894798482349795043362
+2018-08-07 09:19:59: Pedeata's radius is 7260
+2018-08-07 09:19:59: Minimum distance is 2887479
+2018-08-07 09:19:59: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:19:59: Planet Pedeata Created
+2018-08-07 09:19:59: Creating planet 19
+2018-08-07 09:19:59: Generating new name.
+2018-08-07 09:19:59: Unique name found, 'Pedeateuismod' adding to name list.
+2018-08-07 09:19:59: Planet's name is Pedeateuismod
+2018-08-07 09:20:00: Pedeateuismod's mass is 574070944612310566147627
+2018-08-07 09:20:00: Pedeateuismod's radius is 4369
+2018-08-07 09:20:00: Minimum distance is 2825431
+2018-08-07 09:20:00: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:20:00: Planet Pedeateuismod Created
+2018-08-07 09:20:00: Creating planet 20
+2018-08-07 09:20:00: Generating new name.
+2018-08-07 09:20:00: Unique name found, 'Nibhada' adding to name list.
+2018-08-07 09:20:00: Planet's name is Nibhada
+2018-08-07 09:20:00: Nibhada's mass is 141637928297842689179223
+2018-08-07 09:20:00: Nibhada's radius is 2480
+2018-08-07 09:20:00: Minimum distance is 2557111
+2018-08-07 09:20:00: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:20:00: Planet Nibhada Created
+2018-08-07 09:20:00: Creating planet 21
+2018-08-07 09:20:00: Generating new name.
+2018-08-07 09:20:00: Unique name found, 'Eliteuve' adding to name list.
+2018-08-07 09:20:00: Planet's name is Eliteuve
+2018-08-07 09:20:00: Eliteuve's mass is 704405776168931641666067
+2018-08-07 09:20:00: Eliteuve's radius is 4368
+2018-08-07 09:20:00: Minimum distance is 2638555
+2018-08-07 09:20:00: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:20:00: Planet Eliteuve Created
+2018-08-07 09:20:00: Creating planet 22
+2018-08-07 09:20:00: Generating new name.
+2018-08-07 09:20:00: Unique name found, 'Crasmi' adding to name list.
+2018-08-07 09:20:00: Planet's name is Crasmi
+2018-08-07 09:20:00: Crasmi's mass is 4369584997183255136854988
+2018-08-07 09:20:00: Crasmi's radius is 9895
+2018-08-07 09:20:00: Minimum distance is 3253071
+2018-08-07 09:20:00: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:20:00: Planet Crasmi Created
+2018-08-07 09:20:00: Creating planet 23
+2018-08-07 09:20:00: Generating new name.
+2018-08-07 09:20:00: Unique name found, 'Quamacad' adding to name list.
+2018-08-07 09:20:00: Planet's name is Quamacad
+2018-08-07 09:20:00: Quamacad's mass is 497226482962389361826766
+2018-08-07 09:20:00: Quamacad's radius is 2787
+2018-08-07 09:20:00: Minimum distance is 1890790
+2018-08-07 09:20:00: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:20:00: Planet Quamacad Created
+2018-08-07 09:20:00: Creating planet 24
+2018-08-07 09:20:00: Generating new name.
+2018-08-07 09:20:00: Unique name found, 'Nisimipotenti' adding to name list.
+2018-08-07 09:20:00: Planet's name is Nisimipotenti
+2018-08-07 09:20:00: Nisimipotenti's mass is 246275850718491760615359
+2018-08-07 09:20:00: Nisimipotenti's radius is 2722
+2018-08-07 09:20:00: Minimum distance is 2334024
+2018-08-07 09:20:00: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:20:00: Planet Nisimipotenti Created
+2018-08-07 09:20:00: Creating planet 25
+2018-08-07 09:20:00: Generating new name.
+2018-08-07 09:20:00: Unique name found, 'Arcuacamet' adding to name list.
+2018-08-07 09:20:00: Planet's name is Arcuacamet
+2018-08-07 09:20:00: Arcuacamet's mass is 395989744503575192067123
+2018-08-07 09:20:00: Arcuacamet's radius is 3982
+2018-08-07 09:20:00: Minimum distance is 2914502
+2018-08-07 09:20:00: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:20:00: Planet Arcuacamet Created
+2018-08-07 09:20:00: 25 planets generated.
+2018-08-07 09:20:00: Returning list of planet names to user.
+2018-08-07 09:21:22: Displaying main test page.
+2018-08-07 09:21:27: Displaying main test page.
+2018-08-07 09:21:27: User entered 25 planets.
+2018-08-07 09:21:27: Generating solar system from user input.
+2018-08-07 09:21:27: A new solar system has been requested
+2018-08-07 09:21:27: Radius: 0
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Enimata'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Enimataeliteua' adding to name list.
+2018-08-07 09:21:27: Star name randomly generated as: Enimataeliteua
+
+2018-08-07 09:21:27: Star mass randomly generated as: 94894616209900326682507789366578
+
+2018-08-07 09:21:27: Populating the solar system with planets.
+2018-08-07 09:21:27: Creating planet 1
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Quameta'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Quametaelitata' adding to name list.
+2018-08-07 09:21:27: Planet's name is Quametaelitata
+2018-08-07 09:21:27: Quametaelitata's mass is 131847695581214983854868
+2018-08-07 09:21:27: Quametaelitata's radius is 1782
+2018-08-07 09:21:27: Minimum distance is 2012185
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Quametaelitata Created
+2018-08-07 09:21:27: Creating planet 2
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Duisac' adding to name list.
+2018-08-07 09:21:27: Planet's name is Duisac
+2018-08-07 09:21:27: Duisac's mass is 135271270876532000617492
+2018-08-07 09:21:27: Duisac's radius is 2710
+2018-08-07 09:21:27: Minimum distance is 3034020
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Duisac Created
+2018-08-07 09:21:27: Creating planet 3
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Nuncacin'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Nuncacinquismia' adding to name list.
+2018-08-07 09:21:27: Planet's name is Nuncacinquismia
+2018-08-07 09:21:27: Nuncacinquismia's mass is 572252754993485551065633
+2018-08-07 09:21:27: Nuncacinquismia's radius is 4475
+2018-08-07 09:21:27: Minimum distance is 3097762
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Nuncacinquismia Created
+2018-08-07 09:21:27: Creating planet 4
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Pedeve'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Pedevequisat' adding to name list.
+2018-08-07 09:21:27: Planet's name is Pedevequisat
+2018-08-07 09:21:27: Pedevequisat's mass is 197850224380883484739320
+2018-08-07 09:21:27: Pedevequisat's radius is 3318
+2018-08-07 09:21:27: Minimum distance is 3272517
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Pedevequisat Created
+2018-08-07 09:21:27: Creating planet 5
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Nislac' adding to name list.
+2018-08-07 09:21:27: Planet's name is Nislac
+2018-08-07 09:21:27: Nislac's mass is 489671370893592116177985
+2018-08-07 09:21:27: Nislac's radius is 3530
+2018-08-07 09:21:27: Minimum distance is 2573895
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Nislac Created
+2018-08-07 09:21:27: Creating planet 6
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Orciut' adding to name list.
+2018-08-07 09:21:27: Planet's name is Orciut
+2018-08-07 09:21:27: Orciut's mass is 242305301531360882949038
+2018-08-07 09:21:27: Orciut's radius is 3300
+2018-08-07 09:21:27: Minimum distance is 3042127
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Orciut Created
+2018-08-07 09:21:27: Creating planet 7
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Nibhin' adding to name list.
+2018-08-07 09:21:27: Planet's name is Nibhin
+2018-08-07 09:21:27: Nibhin's mass is 478232733468100731613421
+2018-08-07 09:21:27: Nibhin's radius is 3292
+2018-08-07 09:21:27: Minimum distance is 2419344
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Nibhin Created
+2018-08-07 09:21:27: Creating planet 8
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Nuncaccommodo' adding to name list.
+2018-08-07 09:21:27: Planet's name is Nuncaccommodo
+2018-08-07 09:21:27: Nuncaccommodo's mass is 387460145803706284317119
+2018-08-07 09:21:27: Nuncaccommodo's radius is 4541
+2018-08-07 09:21:27: Minimum distance is 3579812
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Nuncaccommodo Created
+2018-08-07 09:21:27: Creating planet 9
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Duisidenim' adding to name list.
+2018-08-07 09:21:27: Planet's name is Duisidenim
+2018-08-07 09:21:27: Duisidenim's mass is 4021243676576873205838322
+2018-08-07 09:21:27: Duisidenim's radius is 9820
+2018-08-07 09:21:27: Minimum distance is 3549025
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Duisidenim Created
+2018-08-07 09:21:27: Creating planet 10
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Urnaeua'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Urnaeuaorciad' adding to name list.
+2018-08-07 09:21:27: Planet's name is Urnaeuaorciad
+2018-08-07 09:21:27: Urnaeuaorciad's mass is 99703700294096292556782
+2018-08-07 09:21:27: Urnaeuaorciad's radius is 2234
+2018-08-07 09:21:27: Minimum distance is 2768835
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Urnaeuaorciad Created
+2018-08-07 09:21:27: Creating planet 11
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Nibhina'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Nibhinaerosina' adding to name list.
+2018-08-07 09:21:27: Planet's name is Nibhinaerosina
+2018-08-07 09:21:27: Nibhinaerosina's mass is 140621441955698331547868
+2018-08-07 09:21:27: Nibhinaerosina's radius is 1957
+2018-08-07 09:21:27: Minimum distance is 2162841
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Nibhinaerosina Created
+2018-08-07 09:21:27: Creating planet 12
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Urnaveac' adding to name list.
+2018-08-07 09:21:27: Planet's name is Urnaveac
+2018-08-07 09:21:27: Urnaveac's mass is 2569167718210936853052940
+2018-08-07 09:21:27: Urnaveac's radius is 7497
+2018-08-07 09:21:27: Minimum distance is 3145872
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Urnaveac Created
+2018-08-07 09:21:27: Creating planet 13
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Odioeta'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Odioetaeniminid' adding to name list.
+2018-08-07 09:21:27: Planet's name is Odioetaeniminid
+2018-08-07 09:21:27: Odioetaeniminid's mass is 71830446976014666864762100598
+2018-08-07 09:21:27: Odioetaeniminid's radius is 292884
+2018-08-07 09:21:27: Minimum distance is 4049274
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Odioetaeniminid Created
+2018-08-07 09:21:27: Creating planet 14
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Urnaata'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Urnaataanteuta' adding to name list.
+2018-08-07 09:21:27: Planet's name is Urnaataanteuta
+2018-08-07 09:21:27: Urnaataanteuta's mass is 200884773014466188896963
+2018-08-07 09:21:27: Urnaataanteuta's radius is 2763
+2018-08-07 09:21:27: Minimum distance is 2711333
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Urnaataanteuta Created
+2018-08-07 09:21:27: Creating planet 15
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Elitid'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Elitidarcuada' adding to name list.
+2018-08-07 09:21:27: Planet's name is Elitidarcuada
+2018-08-07 09:21:27: Elitidarcuada's mass is 5623975824985532200381462
+2018-08-07 09:21:27: Elitidarcuada's radius is 10519
+2018-08-07 09:21:27: Minimum distance is 3399468
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Elitidarcuada Created
+2018-08-07 09:21:27: Creating planet 16
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Elitvea'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Elitveaarcuuta' adding to name list.
+2018-08-07 09:21:27: Planet's name is Elitveaarcuuta
+2018-08-07 09:21:27: Elitveaarcuuta's mass is 1179780152241811310100942
+2018-08-07 09:21:27: Elitveaarcuuta's radius is 3759
+2018-08-07 09:21:27: Minimum distance is 2044512
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Elitveaarcuuta Created
+2018-08-07 09:21:27: Creating planet 17
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Pedeata'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Pedeatanibhida' adding to name list.
+2018-08-07 09:21:27: Planet's name is Pedeatanibhida
+2018-08-07 09:21:27: Pedeatanibhida's mass is 319639691947706123605016
+2018-08-07 09:21:27: Pedeatanibhida's radius is 3598
+2018-08-07 09:21:27: Minimum distance is 3024303
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Pedeatanibhida Created
+2018-08-07 09:21:27: Creating planet 18
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Ametada' adding to name list.
+2018-08-07 09:21:27: Planet's name is Ametada
+2018-08-07 09:21:27: Ametada's mass is 357646004477929398643584
+2018-08-07 09:21:27: Ametada's radius is 2703
+2018-08-07 09:21:27: Minimum distance is 2188497
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Ametada Created
+2018-08-07 09:21:27: Creating planet 19
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Duisvea' adding to name list.
+2018-08-07 09:21:27: Planet's name is Duisvea
+2018-08-07 09:21:27: Duisvea's mass is 587189260827826018451897
+2018-08-07 09:21:27: Duisvea's radius is 2686
+2018-08-07 09:21:27: Minimum distance is 1843448
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Duisvea Created
+2018-08-07 09:21:27: Creating planet 20
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Elitatet' adding to name list.
+2018-08-07 09:21:27: Planet's name is Elitatet
+2018-08-07 09:21:27: Elitatet's mass is 285994130184621169526682
+2018-08-07 09:21:27: Elitatet's radius is 2168
+2018-08-07 09:21:27: Minimum distance is 1891144
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Elitatet Created
+2018-08-07 09:21:27: Creating planet 21
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Nisleua'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Nisleuaurnamia' adding to name list.
+2018-08-07 09:21:27: Planet's name is Nisleuaurnamia
+2018-08-07 09:21:27: Nisleuaurnamia's mass is 201556917233221130554644
+2018-08-07 09:21:27: Nisleuaurnamia's radius is 2783
+2018-08-07 09:21:27: Minimum distance is 2727920
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Nisleuaurnamia Created
+2018-08-07 09:21:27: Creating planet 22
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Orciaceuismod' adding to name list.
+2018-08-07 09:21:27: Planet's name is Orciaceuismod
+2018-08-07 09:21:27: Orciaceuismod's mass is 2992897062346861288553665
+2018-08-07 09:21:27: Orciaceuismod's radius is 6052
+2018-08-07 09:21:27: Minimum distance is 2413530
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Orciaceuismod Created
+2018-08-07 09:21:27: Creating planet 23
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Quamata' adding to name list.
+2018-08-07 09:21:27: Planet's name is Quamata
+2018-08-07 09:21:27: Quamata's mass is 536883651983473401783815
+2018-08-07 09:21:27: Quamata's radius is 4332
+2018-08-07 09:21:27: Minimum distance is 3063228
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Quamata Created
+2018-08-07 09:21:27: Creating planet 24
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Reduntant name 'Nunceua'.
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Nunceuanislmi' adding to name list.
+2018-08-07 09:21:27: Planet's name is Nunceuanislmi
+2018-08-07 09:21:27: Nunceuanislmi's mass is 3282871100971840317725742
+2018-08-07 09:21:27: Nunceuanislmi's radius is 5214
+2018-08-07 09:21:27: Minimum distance is 2016217
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Nunceuanislmi Created
+2018-08-07 09:21:27: Creating planet 25
+2018-08-07 09:21:27: Generating new name.
+2018-08-07 09:21:27: Unique name found, 'Duisidcras' adding to name list.
+2018-08-07 09:21:27: Planet's name is Duisidcras
+2018-08-07 09:21:27: Duisidcras's mass is 2894812177664491409276540
+2018-08-07 09:21:27: Duisidcras's radius is 9055
+2018-08-07 09:21:27: Minimum distance is 3651455
+2018-08-07 09:21:27: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:21:27: Planet Duisidcras Created
+2018-08-07 09:21:27: 25 planets generated.
+2018-08-07 09:21:27: Returning list of planet names to user.
+2018-08-07 09:22:09: Displaying main test page.
+2018-08-07 09:22:12: Displaying main test page.
+2018-08-07 09:22:12: User entered 25 planets.
+2018-08-07 09:22:12: Generating solar system from user input.
+2018-08-07 09:22:12: A new solar system has been requested
+2018-08-07 09:22:12: Radius: 0
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Antemi' adding to name list.
+2018-08-07 09:22:12: Star name randomly generated as: Antemi
+
+2018-08-07 09:22:12: Star mass randomly generated as: 233227105707682594307598452610920
+
+2018-08-07 09:22:12: Populating the solar system with planets.
+2018-08-07 09:22:12: Creating planet 1
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Nisleta'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Nisletaarcuve' adding to name list.
+2018-08-07 09:22:12: Planet's name is Nisletaarcuve
+2018-08-07 09:22:12: Nisletaarcuve's mass is 110436251407550807592769
+2018-08-07 09:22:12: Nisletaarcuve's radius is 2733
+2018-08-07 09:22:12: Minimum distance is 4418070
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Nisletaarcuve Created
+2018-08-07 09:22:12: Creating planet 2
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Pedeada'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Pedeadaduisuta' adding to name list.
+2018-08-07 09:22:12: Planet's name is Pedeadaduisuta
+2018-08-07 09:22:12: Pedeadaduisuta's mass is 303733937861932718932703
+2018-08-07 09:22:12: Pedeadaduisuta's radius is 3520
+2018-08-07 09:22:12: Minimum distance is 4061393
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Pedeadaduisuta Created
+2018-08-07 09:22:12: Creating planet 3
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Elituta' adding to name list.
+2018-08-07 09:22:12: Planet's name is Elituta
+2018-08-07 09:22:12: Elituta's mass is 453658499114511660602308
+2018-08-07 09:22:12: Elituta's radius is 3478
+2018-08-07 09:22:12: Minimum distance is 3510616
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Elituta Created
+2018-08-07 09:22:12: Creating planet 4
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Antevea' adding to name list.
+2018-08-07 09:22:12: Planet's name is Antevea
+2018-08-07 09:22:12: Antevea's mass is 4996019453629712592508932
+2018-08-07 09:22:12: Antevea's radius is 10290
+2018-08-07 09:22:12: Minimum distance is 4668430
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Antevea Created
+2018-08-07 09:22:12: Creating planet 5
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Nuncuta'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Nuncutaorciina' adding to name list.
+2018-08-07 09:22:12: Planet's name is Nuncutaorciina
+2018-08-07 09:22:12: Nuncutaorciina's mass is 2982926574272877454249789
+2018-08-07 09:22:12: Nuncutaorciina's radius is 7180
+2018-08-07 09:22:12: Minimum distance is 3868481
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Nuncutaorciina Created
+2018-08-07 09:22:12: Creating planet 6
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Eroseta'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Erosetaorcieta' adding to name list.
+2018-08-07 09:22:12: Planet's name is Erosetaorcieta
+2018-08-07 09:22:12: Erosetaorcieta's mass is 2171282452721178432568235
+2018-08-07 09:22:12: Erosetaorcieta's radius is 6257
+2018-08-07 09:22:12: Minimum distance is 3747637
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Erosetaorcieta Created
+2018-08-07 09:22:12: Creating planet 7
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Urnaeua'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Urnaeuadiamut' adding to name list.
+2018-08-07 09:22:12: Planet's name is Urnaeuadiamut
+2018-08-07 09:22:12: Urnaeuadiamut's mass is 297758559136910863551278
+2018-08-07 09:22:12: Urnaeuadiamut's radius is 2126
+2018-08-07 09:22:12: Minimum distance is 2469289
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Urnaeuadiamut Created
+2018-08-07 09:22:12: Creating planet 8
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Pedevea' adding to name list.
+2018-08-07 09:22:12: Planet's name is Pedevea
+2018-08-07 09:22:12: Pedevea's mass is 195367266750946296182642708302
+2018-08-07 09:22:12: Pedevea's radius is 292166
+2018-08-07 09:22:12: Minimum distance is 3905194
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Pedevea Created
+2018-08-07 09:22:12: Creating planet 9
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Enimut'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Enimutduisveac' adding to name list.
+2018-08-07 09:22:12: Planet's name is Enimutduisveac
+2018-08-07 09:22:12: Enimutduisveac's mass is 434684776075342228608518
+2018-08-07 09:22:12: Enimutduisveac's radius is 2862
+2018-08-07 09:22:12: Minimum distance is 2930274
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Enimutduisveac Created
+2018-08-07 09:22:12: Creating planet 10
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Erataca'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Eratacadiameuinteger' adding to name list.
+2018-08-07 09:22:12: Planet's name is Eratacadiameuinteger
+2018-08-07 09:22:12: Eratacadiameuinteger's mass is 296679463680502027711019
+2018-08-07 09:22:12: Eratacadiameuinteger's radius is 3583
+2018-08-07 09:22:12: Minimum distance is 4166594
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Eratacadiameuinteger Created
+2018-08-07 09:22:12: Creating planet 11
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Enimaceuismod' adding to name list.
+2018-08-07 09:22:12: Planet's name is Enimaceuismod
+2018-08-07 09:22:12: Enimaceuismod's mass is 154975246691478910816416
+2018-08-07 09:22:12: Enimaceuismod's radius is 2771
+2018-08-07 09:22:12: Minimum distance is 4001099
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Enimaceuismod Created
+2018-08-07 09:22:12: Creating planet 12
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Anteat' adding to name list.
+2018-08-07 09:22:12: Planet's name is Anteat
+2018-08-07 09:22:12: Anteat's mass is 287483426068707444988621
+2018-08-07 09:22:12: Anteat's radius is 2970
+2018-08-07 09:22:12: Minimum distance is 3490189
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Anteat Created
+2018-08-07 09:22:12: Creating planet 13
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Quisutviverra' adding to name list.
+2018-08-07 09:22:12: Planet's name is Quisutviverra
+2018-08-07 09:22:12: Quisutviverra's mass is 2762318606415641296878347
+2018-08-07 09:22:12: Quisutviverra's radius is 8294
+2018-08-07 09:22:12: Minimum distance is 4584616
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Quisutviverra Created
+2018-08-07 09:22:12: Creating planet 14
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Nislaca'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Nislacaametaca' adding to name list.
+2018-08-07 09:22:12: Planet's name is Nislacaametaca
+2018-08-07 09:22:12: Nislacaametaca's mass is 232439439544714093276545
+2018-08-07 09:22:12: Nislacaametaca's radius is 2820
+2018-08-07 09:22:12: Minimum distance is 3557209
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Nislacaametaca Created
+2018-08-07 09:22:12: Creating planet 15
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Enimata'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Enimatanislada' adding to name list.
+2018-08-07 09:22:12: Planet's name is Enimatanislada
+2018-08-07 09:22:12: Enimatanislada's mass is 569834244403568471330868
+2018-08-07 09:22:12: Enimatanislada's radius is 2832
+2018-08-07 09:22:12: Minimum distance is 2649357
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Enimatanislada Created
+2018-08-07 09:22:12: Creating planet 16
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Orciida'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Orciidaduisida' adding to name list.
+2018-08-07 09:22:12: Planet's name is Orciidaduisida
+2018-08-07 09:22:12: Orciidaduisida's mass is 1903029888453055254583979
+2018-08-07 09:22:12: Orciidaduisida's radius is 7503
+2018-08-07 09:22:12: Minimum distance is 4695876
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Orciidaduisida Created
+2018-08-07 09:22:12: Creating planet 17
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Orcimia' adding to name list.
+2018-08-07 09:22:12: Planet's name is Orcimia
+2018-08-07 09:22:12: Orcimia's mass is 120915403973654756146832
+2018-08-07 09:22:12: Orcimia's radius is 2513
+2018-08-07 09:22:12: Minimum distance is 3941505
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Orcimia Created
+2018-08-07 09:22:12: Creating planet 18
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Nibheta' adding to name list.
+2018-08-07 09:22:12: Planet's name is Nibheta
+2018-08-07 09:22:12: Nibheta's mass is 3844550589914980083356213
+2018-08-07 09:22:12: Nibheta's radius is 6021
+2018-08-07 09:22:12: Minimum distance is 2980919
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Nibheta Created
+2018-08-07 09:22:12: Creating planet 19
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Crasadmi' adding to name list.
+2018-08-07 09:22:12: Planet's name is Crasadmi
+2018-08-07 09:22:12: Crasadmi's mass is 2522026249732564492343737
+2018-08-07 09:22:12: Crasadmi's radius is 8337
+2018-08-07 09:22:12: Minimum distance is 4750326
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Crasadmi Created
+2018-08-07 09:22:12: Creating planet 20
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Eliteua'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Eliteuacrasaceu' adding to name list.
+2018-08-07 09:22:12: Planet's name is Eliteuacrasaceu
+2018-08-07 09:22:12: Eliteuacrasaceu's mass is 101580998241110164635717
+2018-08-07 09:22:12: Eliteuacrasaceu's radius is 2528
+2018-08-07 09:22:12: Minimum distance is 4202133
+2018-08-07 09:22:12: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:12: Planet Eliteuacrasaceu Created
+2018-08-07 09:22:12: Creating planet 21
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Reduntant name 'Erosina'.
+2018-08-07 09:22:12: Generating new name.
+2018-08-07 09:22:12: Unique name found, 'Erosinanunceua' adding to name list.
+2018-08-07 09:22:12: Planet's name is Erosinanunceua
+2018-08-07 09:22:12: Erosinanunceua's mass is 213648666248149728775424
+2018-08-07 09:22:12: Erosinanunceua's radius is 1955
+2018-08-07 09:22:13: Minimum distance is 2536356
+2018-08-07 09:22:13: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:13: Planet Erosinanunceua Created
+2018-08-07 09:22:13: Creating planet 22
+2018-08-07 09:22:13: Generating new name.
+2018-08-07 09:22:13: Unique name found, 'Crasata' adding to name list.
+2018-08-07 09:22:13: Planet's name is Crasata
+2018-08-07 09:22:13: Crasata's mass is 280293995294220613158833
+2018-08-07 09:22:13: Crasata's radius is 2386
+2018-08-07 09:22:13: Minimum distance is 2827674
+2018-08-07 09:22:13: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:13: Planet Crasata Created
+2018-08-07 09:22:13: Creating planet 23
+2018-08-07 09:22:13: Generating new name.
+2018-08-07 09:22:13: Unique name found, 'Urnamia' adding to name list.
+2018-08-07 09:22:13: Planet's name is Urnamia
+2018-08-07 09:22:13: Urnamia's mass is 2485066244372675286680738
+2018-08-07 09:22:13: Urnamia's radius is 4997
+2018-08-07 09:22:13: Minimum distance is 2861279
+2018-08-07 09:22:13: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:13: Planet Urnamia Created
+2018-08-07 09:22:13: Creating planet 24
+2018-08-07 09:22:13: Generating new name.
+2018-08-07 09:22:13: Unique name found, 'Arcuida' adding to name list.
+2018-08-07 09:22:13: Planet's name is Arcuida
+2018-08-07 09:22:13: Arcuida's mass is 581035299928537215227358
+2018-08-07 09:22:13: Arcuida's radius is 5224
+2018-08-07 09:22:13: Minimum distance is 4855484
+2018-08-07 09:22:13: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:13: Planet Arcuida Created
+2018-08-07 09:22:13: Creating planet 25
+2018-08-07 09:22:13: Generating new name.
+2018-08-07 09:22:13: Unique name found, 'Antemive' adding to name list.
+2018-08-07 09:22:13: Planet's name is Antemive
+2018-08-07 09:22:13: Antemive's mass is 532805327746556596912293
+2018-08-07 09:22:13: Antemive's radius is 4448
+2018-08-07 09:22:13: Minimum distance is 4255384
+2018-08-07 09:22:13: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:22:13: Planet Antemive Created
+2018-08-07 09:22:13: 25 planets generated.
+2018-08-07 09:22:13: Returning list of planet names to user.
+2018-08-07 09:24:20: solar_calc.py loaded
+2018-08-07 09:24:20: planet.py loaded
+2018-08-07 09:24:20: star.py loaded
+2018-08-07 09:24:20: html_builder.py loaded
+2018-08-07 09:24:20: Starting Tharumec website.
+2018-08-07 09:24:45: Displaying main test page.
+2018-08-07 09:24:48: Displaying main test page.
+2018-08-07 09:24:48: User entered 25 planets.
+2018-08-07 09:24:48: Generating solar system from user input.
+2018-08-07 09:24:48: A new solar system has been requested
+2018-08-07 09:24:48: Radius: 0
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Odiout' adding to name list.
+2018-08-07 09:24:48: Star name randomly generated as: Odiout
+
+2018-08-07 09:24:48: Star mass randomly generated as: 15318018189687156784332093536617
+
+2018-08-07 09:24:48: Populating the solar system with planets.
+2018-08-07 09:24:48: Creating planet 1
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Quameta' adding to name list.
+2018-08-07 09:24:48: Planet's name is Quameta
+2018-08-07 09:24:48: Quameta's mass is 149714413113939798273539
+2018-08-07 09:24:48: Quameta's radius is 2638
+2018-08-07 09:24:48: Minimum distance is 1554622
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Quameta Created
+2018-08-07 09:24:48: Creating planet 2
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Arcumia' adding to name list.
+2018-08-07 09:24:48: Planet's name is Arcumia
+2018-08-07 09:24:48: Arcumia's mass is 587589391259990101047240
+2018-08-07 09:24:48: Arcumia's radius is 3112
+2018-08-07 09:24:48: Minimum distance is 1162660
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Arcumia Created
+2018-08-07 09:24:48: Creating planet 3
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Nisiida' adding to name list.
+2018-08-07 09:24:48: Planet's name is Nisiida
+2018-08-07 09:24:48: Nisiida's mass is 235334827764698802421854
+2018-08-07 09:24:48: Nisiida's radius is 2465
+2018-08-07 09:24:48: Minimum distance is 1249375
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Nisiida Created
+2018-08-07 09:24:48: Creating planet 4
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Odioetmi' adding to name list.
+2018-08-07 09:24:48: Planet's name is Odioetmi
+2018-08-07 09:24:48: Odioetmi's mass is 342213926489336512430949
+2018-08-07 09:24:48: Odioetmi's radius is 2946
+2018-08-07 09:24:48: Minimum distance is 1317968
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Odioetmi Created
+2018-08-07 09:24:48: Creating planet 5
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Eratacerat' adding to name list.
+2018-08-07 09:24:48: Planet's name is Eratacerat
+2018-08-07 09:24:48: Eratacerat's mass is 262245156055814418230741
+2018-08-07 09:24:48: Eratacerat's radius is 3365
+2018-08-07 09:24:48: Minimum distance is 1645081
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Eratacerat Created
+2018-08-07 09:24:48: Creating planet 6
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Duisata' adding to name list.
+2018-08-07 09:24:48: Planet's name is Duisata
+2018-08-07 09:24:48: Duisata's mass is 357395186352350725638402
+2018-08-07 09:24:48: Duisata's radius is 3494
+2018-08-07 09:24:48: Minimum distance is 1540676
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Duisata Created
+2018-08-07 09:24:48: Creating planet 7
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Nibhve' adding to name list.
+2018-08-07 09:24:48: Planet's name is Nibhve
+2018-08-07 09:24:48: Nibhve's mass is 307094994112189852825330
+2018-08-07 09:24:48: Nibhve's radius is 2201
+2018-08-07 09:24:48: Minimum distance is 1020862
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Nibhve Created
+2018-08-07 09:24:48: Creating planet 8
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Anteada' adding to name list.
+2018-08-07 09:24:48: Planet's name is Anteada
+2018-08-07 09:24:48: Anteada's mass is 5339057606932600855914022
+2018-08-07 09:24:48: Anteada's radius is 9861
+2018-08-07 09:24:48: Minimum distance is 1765512
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Anteada Created
+2018-08-07 09:24:48: Creating planet 9
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Arcuinet' adding to name list.
+2018-08-07 09:24:48: Planet's name is Arcuinet
+2018-08-07 09:24:48: Arcuinet's mass is 5932111301729550271426080
+2018-08-07 09:24:48: Arcuinet's radius is 6560
+2018-08-07 09:24:48: Minimum distance is 1133980
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Arcuinet Created
+2018-08-07 09:24:48: Creating planet 10
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Nisimia' adding to name list.
+2018-08-07 09:24:48: Planet's name is Nisimia
+2018-08-07 09:24:48: Nisimia's mass is 529956510363059444014586
+2018-08-07 09:24:48: Nisimia's radius is 2318
+2018-08-07 09:24:48: Minimum distance is 896337
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Nisimia Created
+2018-08-07 09:24:48: Creating planet 11
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Pedeaca' adding to name list.
+2018-08-07 09:24:48: Planet's name is Pedeaca
+2018-08-07 09:24:48: Pedeaca's mass is 549891853100355731814508
+2018-08-07 09:24:48: Pedeaca's radius is 4006
+2018-08-07 09:24:48: Minimum distance is 1530112
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Pedeaca Created
+2018-08-07 09:24:48: Creating planet 12
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Anteet' adding to name list.
+2018-08-07 09:24:48: Planet's name is Anteet
+2018-08-07 09:24:48: Anteet's mass is 91965613027043552460469
+2018-08-07 09:24:48: Anteet's radius is 1902
+2018-08-07 09:24:48: Minimum distance is 1318580
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Anteet Created
+2018-08-07 09:24:48: Creating planet 13
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Quiseta' adding to name list.
+2018-08-07 09:24:48: Planet's name is Quiseta
+2018-08-07 09:24:48: Quiseta's mass is 435515477594880391293003
+2018-08-07 09:24:48: Quiseta's radius is 2931
+2018-08-07 09:24:48: Minimum distance is 1210001
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Quiseta Created
+2018-08-07 09:24:48: Creating planet 14
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Ametada' adding to name list.
+2018-08-07 09:24:48: Planet's name is Ametada
+2018-08-07 09:24:48: Ametada's mass is 1507369620070055099296080
+2018-08-07 09:24:48: Ametada's radius is 5553
+2018-08-07 09:24:48: Minimum distance is 1515511
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Ametada Created
+2018-08-07 09:24:48: Creating planet 15
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Odioad' adding to name list.
+2018-08-07 09:24:48: Planet's name is Odioad
+2018-08-07 09:24:48: Odioad's mass is 214431999048038684693846
+2018-08-07 09:24:48: Odioad's radius is 2549
+2018-08-07 09:24:48: Minimum distance is 1332635
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Odioad Created
+2018-08-07 09:24:48: Creating planet 16
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Enimadat' adding to name list.
+2018-08-07 09:24:48: Planet's name is Enimadat
+2018-08-07 09:24:48: Enimadat's mass is 377857602877438781112785
+2018-08-07 09:24:48: Enimadat's radius is 3842
+2018-08-07 09:24:48: Minimum distance is 1662976
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Enimadat Created
+2018-08-07 09:24:48: Creating planet 17
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Orcieua' adding to name list.
+2018-08-07 09:24:48: Planet's name is Orcieua
+2018-08-07 09:24:48: Orcieua's mass is 4930867779465022084000575
+2018-08-07 09:24:48: Orcieua's radius is 10122
+2018-08-07 09:24:48: Minimum distance is 1860929
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Orcieua Created
+2018-08-07 09:24:48: Creating planet 18
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Orciadnibh' adding to name list.
+2018-08-07 09:24:48: Planet's name is Orciadnibh
+2018-08-07 09:24:48: Orciadnibh's mass is 2688847743348463928221830
+2018-08-07 09:24:48: Orciadnibh's radius is 7244
+2018-08-07 09:24:48: Minimum distance is 1630150
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Orciadnibh Created
+2018-08-07 09:24:48: Creating planet 19
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Nibhacnisi' adding to name list.
+2018-08-07 09:24:48: Planet's name is Nibhacnisi
+2018-08-07 09:24:48: Nibhacnisi's mass is 455452322758188123652663
+2018-08-07 09:24:48: Nibhacnisi's radius is 4286
+2018-08-07 09:24:48: Minimum distance is 1743181
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Nibhacnisi Created
+2018-08-07 09:24:48: Creating planet 20
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Pedeida' adding to name list.
+2018-08-07 09:24:48: Planet's name is Pedeida
+2018-08-07 09:24:48: Pedeida's mass is 2234758212076684299497120
+2018-08-07 09:24:48: Pedeida's radius is 7449
+2018-08-07 09:24:48: Minimum distance is 1782895
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Pedeida Created
+2018-08-07 09:24:48: Creating planet 21
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Anteacid' adding to name list.
+2018-08-07 09:24:48: Planet's name is Anteacid
+2018-08-07 09:24:48: Anteacid's mass is 387035417323352170280014
+2018-08-07 09:24:48: Anteacid's radius is 3822
+2018-08-07 09:24:48: Minimum distance is 1641138
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Anteacid Created
+2018-08-07 09:24:48: Creating planet 22
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Anteina' adding to name list.
+2018-08-07 09:24:48: Planet's name is Anteina
+2018-08-07 09:24:48: Anteina's mass is 2175657030049386983075983
+2018-08-07 09:24:48: Anteina's radius is 4178
+2018-08-07 09:24:48: Minimum distance is 1008965
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Anteina Created
+2018-08-07 09:24:48: Creating planet 23
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Egetada' adding to name list.
+2018-08-07 09:24:48: Planet's name is Egetada
+2018-08-07 09:24:48: Egetada's mass is 2904396862941967797724381
+2018-08-07 09:24:48: Egetada's radius is 5337
+2018-08-07 09:24:48: Minimum distance is 1170531
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Egetada Created
+2018-08-07 09:24:48: Creating planet 24
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Ametidcommodo' adding to name list.
+2018-08-07 09:24:48: Planet's name is Ametidcommodo
+2018-08-07 09:24:48: Ametidcommodo's mass is 166547110474100520792425
+2018-08-07 09:24:48: Ametidcommodo's radius is 2648
+2018-08-07 09:24:48: Minimum distance is 1506064
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Ametidcommodo Created
+2018-08-07 09:24:48: Creating planet 25
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Reduntant name 'Ametada'.
+2018-08-07 09:24:48: Generating new name.
+2018-08-07 09:24:48: Unique name found, 'Ametadaelitata' adding to name list.
+2018-08-07 09:24:48: Planet's name is Ametadaelitata
+2018-08-07 09:24:48: Ametadaelitata's mass is 228058427224626777958058
+2018-08-07 09:24:48: Ametadaelitata's radius is 2708
+2018-08-07 09:24:48: Minimum distance is 1386983
+2018-08-07 09:24:48: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 09:24:48: Planet Ametadaelitata Created
+2018-08-07 09:24:48: 25 planets generated.
+2018-08-07 09:24:48: Returning list of planet names to user.
+2018-08-07 09:25:03: run.py loaded
+2018-08-07 09:25:03: run.py loaded
+2018-08-07 09:25:05: solar_calc.py loaded
+2018-08-07 09:25:05: planet.py loaded
+2018-08-07 09:25:05: star.py loaded
+2018-08-07 09:25:05: html_builder.py loaded
+2018-08-07 09:25:05: Starting Tharumec website.
+2018-08-07 09:25:06: solar_calc.py loaded
+2018-08-07 09:25:06: planet.py loaded
+2018-08-07 09:25:06: star.py loaded
+2018-08-07 09:25:06: html_builder.py loaded
+2018-08-07 09:25:06: Starting Tharumec website.
+2018-08-07 09:25:10: Displaying main test page.
+2018-08-07 10:30:52: run.py loaded
+2018-08-07 10:30:52: run.py loaded
+2018-08-07 12:04:07: solar_calc.py loaded
+2018-08-07 12:04:07: planet.py loaded
+2018-08-07 12:04:07: star.py loaded
+2018-08-07 12:04:07: html_builder.py loaded
+2018-08-07 12:04:07: Starting Tharumec website.
+2018-08-07 12:04:08: solar_calc.py loaded
+2018-08-07 12:04:08: planet.py loaded
+2018-08-07 12:04:08: star.py loaded
+2018-08-07 12:04:08: html_builder.py loaded
+2018-08-07 12:04:08: Starting Tharumec website.
+2018-08-07 12:04:14: Displaying main test page.
+2018-08-07 12:04:20: Displaying main test page.
+2018-08-07 12:04:20: User entered 25 planets.
+2018-08-07 12:04:20: Generating solar system from user input.
+2018-08-07 12:04:20: A new solar system has been requested
+2018-08-07 12:04:20: Radius: 0
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Nisiina' adding to name list.
+2018-08-07 12:04:20: Star name randomly generated as: Nisiina
+
+2018-08-07 12:04:20: Star mass randomly generated as: 182691184225322288103368309532061
+
+2018-08-07 12:04:20: Populating the solar system with planets.
+2018-08-07 12:04:20: Creating planet 1
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Eratmi' adding to name list.
+2018-08-07 12:04:20: Planet's name is Eratmi
+2018-08-07 12:04:20: Eratmi's mass is 540568532857590418708520
+2018-08-07 12:04:20: Eratmi's radius is 4929
+2018-08-07 12:04:20: Minimum distance is 4325984
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Eratmi Created
+2018-08-07 12:04:20: Creating planet 2
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Ametaca' adding to name list.
+2018-08-07 12:04:20: Planet's name is Ametaca
+2018-08-07 12:04:20: Ametaca's mass is 3606995826541183008137948
+2018-08-07 12:04:20: Ametaca's radius is 9732
+2018-08-07 12:04:20: Minimum distance is 4536942
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Ametaca Created
+2018-08-07 12:04:20: Creating planet 3
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Craseta' adding to name list.
+2018-08-07 12:04:20: Planet's name is Craseta
+2018-08-07 12:04:20: Craseta's mass is 5269158284460039241297084
+2018-08-07 12:04:20: Craseta's radius is 6825
+2018-08-07 12:04:20: Minimum distance is 2804133
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Craseta Created
+2018-08-07 12:04:20: Creating planet 4
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Crasmiid' adding to name list.
+2018-08-07 12:04:20: Planet's name is Crasmiid
+2018-08-07 12:04:20: Crasmiid's mass is 122619013979386539551969
+2018-08-07 12:04:20: Crasmiid's radius is 2089
+2018-08-07 12:04:20: Minimum distance is 3006276
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Crasmiid Created
+2018-08-07 12:04:20: Creating planet 5
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Nisiad' adding to name list.
+2018-08-07 12:04:20: Planet's name is Nisiad
+2018-08-07 12:04:20: Nisiad's mass is 375576247219710834637506
+2018-08-07 12:04:20: Nisiad's radius is 3891
+2018-08-07 12:04:20: Minimum distance is 3855715
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Nisiad Created
+2018-08-07 12:04:20: Creating planet 6
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Anteac' adding to name list.
+2018-08-07 12:04:20: Planet's name is Anteac
+2018-08-07 12:04:20: Anteac's mass is 552479334328943891429313
+2018-08-07 12:04:20: Anteac's radius is 3693
+2018-08-07 12:04:20: Minimum distance is 3217735
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Anteac Created
+2018-08-07 12:04:20: Creating planet 7
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Nunceta' adding to name list.
+2018-08-07 12:04:20: Planet's name is Nunceta
+2018-08-07 12:04:20: Nunceta's mass is 120297549534364639677545
+2018-08-07 12:04:20: Nunceta's radius is 2567
+2018-08-07 12:04:20: Minimum distance is 3717777
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Nunceta Created
+2018-08-07 12:04:20: Creating planet 8
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Diamut' adding to name list.
+2018-08-07 12:04:20: Planet's name is Diamut
+2018-08-07 12:04:20: Diamut's mass is 5653573776250812592108877
+2018-08-07 12:04:20: Diamut's radius is 8255
+2018-08-07 12:04:20: Minimum distance is 3312982
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Diamut Created
+2018-08-07 12:04:20: Creating planet 9
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Orciina' adding to name list.
+2018-08-07 12:04:20: Planet's name is Orciina
+2018-08-07 12:04:20: Orciina's mass is 901512509958742824802301
+2018-08-07 12:04:20: Orciina's radius is 3895
+2018-08-07 12:04:20: Minimum distance is 2882659
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Orciina Created
+2018-08-07 12:04:20: Creating planet 10
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Orciida' adding to name list.
+2018-08-07 12:04:20: Planet's name is Orciida
+2018-08-07 12:04:20: Orciida's mass is 140719375728845724316748
+2018-08-07 12:04:20: Orciida's radius is 2158
+2018-08-07 12:04:20: Minimum distance is 2966264
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Orciida Created
+2018-08-07 12:04:20: Creating planet 11
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Crasmi' adding to name list.
+2018-08-07 12:04:20: Planet's name is Crasmi
+2018-08-07 12:04:20: Crasmi's mass is 429277797418142175694486
+2018-08-07 12:04:20: Crasmi's radius is 3009
+2018-08-07 12:04:20: Minimum distance is 2851800
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Crasmi Created
+2018-08-07 12:04:20: Creating planet 12
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Nibhaca' adding to name list.
+2018-08-07 12:04:20: Planet's name is Nibhaca
+2018-08-07 12:04:20: Nibhaca's mass is 3946727702772112105504465
+2018-08-07 12:04:20: Nibhaca's radius is 6721
+2018-08-07 12:04:20: Minimum distance is 3040637
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Nibhaca Created
+2018-08-07 12:04:20: Creating planet 13
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Nisiveut' adding to name list.
+2018-08-07 12:04:20: Planet's name is Nisiveut
+2018-08-07 12:04:20: Nisiveut's mass is 254200372537028786544799
+2018-08-07 12:04:20: Nisiveut's radius is 3078
+2018-08-07 12:04:20: Minimum distance is 3473918
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Nisiveut Created
+2018-08-07 12:04:20: Creating planet 14
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Nisiida' adding to name list.
+2018-08-07 12:04:20: Planet's name is Nisiida
+2018-08-07 12:04:20: Nisiida's mass is 3133688217910440718092151
+2018-08-07 12:04:20: Nisiida's radius is 8101
+2018-08-07 12:04:20: Minimum distance is 3957884
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Nisiida Created
+2018-08-07 12:04:20: Creating planet 15
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Erosada' adding to name list.
+2018-08-07 12:04:20: Planet's name is Erosada
+2018-08-07 12:04:20: Erosada's mass is 381307064029224535052368
+2018-08-07 12:04:20: Erosada's radius is 3800
+2018-08-07 12:04:20: Minimum distance is 3746580
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Erosada Created
+2018-08-07 12:04:20: Creating planet 16
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Anteata' adding to name list.
+2018-08-07 12:04:20: Planet's name is Anteata
+2018-08-07 12:04:20: Anteata's mass is 209554255282875922358687
+2018-08-07 12:04:20: Anteata's radius is 2856
+2018-08-07 12:04:20: Minimum distance is 3437709
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Anteata Created
+2018-08-07 12:04:20: Creating planet 17
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Quamatad' adding to name list.
+2018-08-07 12:04:20: Planet's name is Quamatad
+2018-08-07 12:04:20: Quamatad's mass is 425958946312053251610450
+2018-08-07 12:04:20: Quamatad's radius is 4182
+2018-08-07 12:04:20: Minimum distance is 3973786
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Quamatad Created
+2018-08-07 12:04:20: Creating planet 18
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Urnaeu' adding to name list.
+2018-08-07 12:04:20: Planet's name is Urnaeu
+2018-08-07 12:04:20: Urnaeu's mass is 5293802170025285850836431
+2018-08-07 12:04:20: Urnaeu's radius is 8391
+2018-08-07 12:04:20: Minimum distance is 3442185
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Urnaeu Created
+2018-08-07 12:04:20: Creating planet 19
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Erosid' adding to name list.
+2018-08-07 12:04:20: Planet's name is Erosid
+2018-08-07 12:04:20: Erosid's mass is 88237718620447306989371
+2018-08-07 12:04:20: Erosid's radius is 1943
+2018-08-07 12:04:20: Minimum distance is 3120310
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Erosid Created
+2018-08-07 12:04:20: Creating planet 20
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Egetina' adding to name list.
+2018-08-07 12:04:20: Planet's name is Egetina
+2018-08-07 12:04:20: Egetina's mass is 5302373169464398032249545
+2018-08-07 12:04:20: Egetina's radius is 8209
+2018-08-07 12:04:20: Minimum distance is 3365709
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Egetina Created
+2018-08-07 12:04:20: Creating planet 21
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Erataca' adding to name list.
+2018-08-07 12:04:20: Planet's name is Erataca
+2018-08-07 12:04:20: Erataca's mass is 301875576316962208120443
+2018-08-07 12:04:20: Erataca's radius is 2551
+2018-08-07 12:04:20: Minimum distance is 2718801
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Erataca Created
+2018-08-07 12:04:20: Creating planet 22
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Diamacid' adding to name list.
+2018-08-07 12:04:20: Planet's name is Diamacid
+2018-08-07 12:04:20: Diamacid's mass is 491792109389214811081032
+2018-08-07 12:04:20: Diamacid's radius is 2729
+2018-08-07 12:04:20: Minimum distance is 2471834
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Diamacid Created
+2018-08-07 12:04:20: Creating planet 23
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Enimata' adding to name list.
+2018-08-07 12:04:20: Planet's name is Enimata
+2018-08-07 12:04:20: Enimata's mass is 800679382878698343992702974
+2018-08-07 12:04:20: Enimata's radius is 41431
+2018-08-07 12:04:20: Minimum distance is 3189938
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Enimata Created
+2018-08-07 12:04:20: Creating planet 24
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Reduntant name 'Nibhaca'.
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Nibhacaeratata' adding to name list.
+2018-08-07 12:04:20: Planet's name is Nibhacaeratata
+2018-08-07 12:04:20: Nibhacaeratata's mass is 340985483762902726859277
+2018-08-07 12:04:20: Nibhacaeratata's radius is 3581
+2018-08-07 12:04:20: Minimum distance is 3664674
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Nibhacaeratata Created
+2018-08-07 12:04:20: Creating planet 25
+2018-08-07 12:04:20: Generating new name.
+2018-08-07 12:04:20: Unique name found, 'Nuncut' adding to name list.
+2018-08-07 12:04:20: Planet's name is Nuncut
+2018-08-07 12:04:20: Nuncut's mass is 449076057753298759031755
+2018-08-07 12:04:20: Nuncut's radius is 4292
+2018-08-07 12:04:20: Minimum distance is 4007093
+2018-08-07 12:04:20: Planetary orbits do not overlap, keeping orbit distance.
+2018-08-07 12:04:20: Planet Nuncut Created
+2018-08-07 12:04:20: 25 planets generated.
+2018-08-07 12:04:20: Returning list of planet names to user.
+2018-08-07 12:04:53: run.py loaded
+2018-08-07 12:04:53: run.py loaded
